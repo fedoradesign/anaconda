@@ -180,7 +180,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="811.42857"
+     inkscape:cx="971.42857"
      inkscape:cy="371.42857"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -1142,19 +1142,19 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.10759687px;line-height:100%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="324.16171"
-       y="116.48168"
+       x="288.44293"
+       y="104.04627"
        id="text4945"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
-         id="tspan4947"
-         x="324.16171"
-         y="116.48168"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#9e292b;stroke-width:0.26458332px">NOT</tspan><tspan
-         sodipodi:role="line"
-         x="324.16171"
-         y="120.58928"
+         x="288.44293"
+         y="104.04627"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#9e292b;stroke-width:0.26458332px"
-         id="tspan4949">SUPPORTED</tspan></text>
+         id="tspan4964">NOT RECOMMENDED:</tspan><tspan
+         sodipodi:role="line"
+         x="288.44293"
+         y="108.15387"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#9e292b;stroke-width:0.26458332px"
+         id="tspan4966">NO USER  SUPPORT PROVIDED</tspan></text>
   </g>
 </svg>
