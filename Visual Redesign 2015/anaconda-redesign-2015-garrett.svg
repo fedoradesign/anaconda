@@ -15,7 +15,7 @@
    viewBox="0 0 719.66665 865.1875"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r13915"
+   inkscape:version="0.91+devel r13893"
    sodipodi:docname="anaconda-redesign-2015-garrett.svg"
    inkscape:export-filename="./anaconda-redesign-2015-garrett.png"
    inkscape:export-xdpi="90"
@@ -151,9 +151,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="1073.8003"
-     inkscape:cy="1691.96"
+     inkscape:zoom="1"
+     inkscape:cx="1012.5163"
+     inkscape:cy="3035.851"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -328,7 +328,7 @@
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:0.82434118;marker:none;enable-background:accumulate"
        sodipodi:nodetypes="ccccccccccscccccc"
        id="path16183-1-3-2"
-       d="m -529.43361,406.22026 c 0.12755,-2e-5 0.25333,-0.0373 0.33489,-0.11592 l 1.48125,-1.53276 -1.50701,-1.53276 c -0.0815,-0.0787 -0.18157,-0.11592 -0.30913,-0.11593 l -0.41216,0 0,0.41217 c 10e-6,0.10588 0.0534,0.21792 0.12879,0.29625 l 0.5281,0.5281 -2.13814,0 c -0.21775,-0.003 -0.41216,0.19439 -0.41216,0.41217 0,0.21777 0.19441,0.41525 0.41216,0.41217 l 2.15102,0 -0.50232,0.52809 c -0.0753,0.0784 -0.16745,0.19036 -0.16745,0.29625 l 0,0.41217 z"
+       d="m -522.55443,406.22026 c 0.12755,-2e-5 0.25333,-0.0373 0.33489,-0.11592 l 1.48125,-1.53276 -1.50701,-1.53276 c -0.0815,-0.0787 -0.18157,-0.11592 -0.30913,-0.11593 l -0.41216,0 0,0.41217 c 10e-6,0.10588 0.0534,0.21792 0.12879,0.29625 l 0.5281,0.5281 -2.13814,0 c -0.21775,-0.003 -0.41216,0.19439 -0.41216,0.41217 0,0.21777 0.19441,0.41525 0.41216,0.41217 l 2.15102,0 -0.50232,0.52809 c -0.0753,0.0784 -0.16745,0.19036 -0.16745,0.29625 l 0,0.41217 z"
        inkscape:connector-curvature="0" />
     <g
        id="g11366-0"
@@ -466,12 +466,12 @@
     <text
        sodipodi:linespacing="521%"
        id="text19410-6-1-1-2-5"
-       y="470.94476"
+       y="470.41559"
        x="-528.31543"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:521.00000381%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:1px"
-         y="470.94476"
+         y="470.41559"
          x="-528.31543"
          id="tspan19412-3-2-2-2-5"
          sodipodi:role="line"><tspan
@@ -573,12 +573,12 @@
     <text
        sodipodi:linespacing="521%"
        id="text19410-6-1-1-2-1-00"
-       y="501.87173"
+       y="501.34256"
        x="-528.31543"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:521.00000381%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:1px"
-         y="501.87173"
+         y="501.34256"
          x="-528.31543"
          id="tspan19412-3-2-2-2-8-0"
          sodipodi:role="line">Europe/Berlin</tspan></text>
@@ -720,12 +720,12 @@
     <text
        sodipodi:linespacing="521%"
        id="text19410-6-1-1-2-1-0-1"
-       y="517.33527"
+       y="516.80609"
        x="-528.1673"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:521.00000381%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:1px"
-         y="517.33527"
+         y="516.80609"
          x="-528.1673"
          id="tspan19412-3-2-2-2-8-8-5"
          sodipodi:role="line">Standard Workstation</tspan></text>
@@ -801,23 +801,22 @@
     <text
        sodipodi:linespacing="521%"
        id="text19410-6-1-1-2-6-7"
-       y="486.40826"
+       y="485.87909"
        x="-528.27594"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:521.00000381%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:521.00000381%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:1px;"
-         y="486.40826"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:1px"
+         y="485.87909"
          x="-528.27594"
          id="tspan19412-3-2-2-2-9-6"
          sodipodi:role="line">US International</tspan></text>
     <g
-       id="g12366"
-       transform="translate(-7.937519)">
+       id="g4612">
       <rect
          ry="0.79374993"
          rx="0.79374999"
          y="367.37918"
-         x="-400.31458"
+         x="-408.25211"
          height="9.260417"
          width="19.579166"
          id="rect19534-6-4-8"
@@ -825,13 +824,13 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.78271914px;line-height:521.00000381%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="-390.68103"
+         x="-398.61856"
          y="373.30069"
          id="text19530-8-5-1"
          sodipodi:linespacing="521%"><tspan
            sodipodi:role="line"
            id="tspan19532-7-4-2"
-           x="-390.68103"
+           x="-398.61856"
            y="373.30069"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.17471838px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:1px">Help</tspan></text>
     </g>
@@ -1050,7 +1049,7 @@
        xml:space="preserve"
        id="flowRoot12427-9"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(277.52125,21.256134)"><flowRegion
+       transform="translate(277.52125,22.314468)"><flowRegion
          id="flowRegion12429-7"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:0.26458332px"><rect
            id="rect12431-5"
@@ -1775,7 +1774,7 @@
            y="361.97717"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:0.26458332px" /></flowRegion><flowPara
          style="stroke-width:0.26458332px"
-         id="flowPara12489-93-2-1">Advanced paritioning will show an informative dialog, then quit the installer and open up a paritioning tool. When coming back to the installer, it will skip this step, as there will be adaquate free space.</flowPara></flowRoot>    <path
+         id="flowPara12489-93-2-1">Advanced partitioning will show an informative dialog, then quit the installer and open up a partitioning tool. When coming back to the installer, it will skip this step, as there will be adequate free space.</flowPara></flowRoot>    <path
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#888a85;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.79374999, 0.79374999;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
        d="m -526.25623,570.31459 0,18.52083"
        id="path16736"
@@ -1859,5 +1858,181 @@
            y="361.99789"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:0.26458332px" /></flowRegion><flowPara
          style="stroke-width:0.26458332px"
-         id="flowPara12489-93-0">Methods of freeing up space are in the order of simplest to hardest, from a use-centric point of view (not implementation-wise), with preserving data prioritized.</flowPara></flowRoot>  </g>
+         id="flowPara12489-93-0">Methods of freeing up space are in the order of simplest to hardest, from a use-centric point of view (not implementation-wise), with preserving data prioritized.</flowPara></flowRoot>    <flowRoot
+       transform="translate(277.52125,42.951969)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#db3279;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4514"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#db3279;fill-opacity:1;stroke-width:0.26458332px"
+         id="flowRegion4516"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#db3279;fill-opacity:1;stroke-width:0.26458332px"
+           y="361.99789"
+           x="-645.55579"
+           height="7.9375"
+           width="133.61458"
+           id="rect4518" /></flowRegion><flowPara
+         id="flowPara4520"
+         style="fill:#db3279;stroke-width:0.26458332px">Think they should look more clickable, added boxes (mo)</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#e7e8e9;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4522"
+       width="90.487495"
+       height="20.902082"
+       x="-630.61365"
+       y="395.02814"
+       ry="1.3229166" />
+    <rect
+       ry="1.3229166"
+       y="395.02814"
+       x="-503.87784"
+       height="20.902082"
+       width="91.016663"
+       id="rect4524"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#e7e8e9;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       ry="0.78705168"
+       y="447.94479"
+       x="-579.28448"
+       height="12.435416"
+       width="119.32708"
+       id="rect4526"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#e7e8e9;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#e7e8e9;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4532"
+       width="119.32708"
+       height="12.435416"
+       x="-579.28448"
+       y="462.76141"
+       ry="0.78705168" />
+    <rect
+       ry="0.78705168"
+       y="478.10721"
+       x="-579.28448"
+       height="12.435416"
+       width="119.32708"
+       id="rect4534"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#e7e8e9;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#e7e8e9;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4536"
+       width="119.32708"
+       height="12.435416"
+       x="-579.28448"
+       y="493.453"
+       ry="0.78705168" />
+    <rect
+       ry="0.78705168"
+       y="509.32797"
+       x="-579.28448"
+       height="12.435416"
+       width="119.32708"
+       id="rect4538"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#e7e8e9;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       transform="translate(278.05042,13.847807)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#db3279;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4540"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#db3279;fill-opacity:1;stroke-width:0.26458332px"
+         id="flowRegion4542"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#db3279;fill-opacity:1;stroke-width:0.26458332px"
+           y="361.99789"
+           x="-645.55579"
+           height="8.202096"
+           width="110.33125"
+           id="rect4544" /></flowRegion><flowPara
+         id="flowPara4546"
+         style="fill:#db3279;stroke-width:0.26458332px">Need input method switch widget (mo)</flowPara></flowRoot>    <rect
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:0.26666668;stroke:none;stroke-width:0.17704763;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72682932"
+       id="rect4581"
+       width="28.045832"
+       height="9.260417"
+       x="-445.82266"
+       y="367.37921"
+       rx="1.1369932"
+       ry="0.79374993" />
+    <text
+       sodipodi:linespacing="521%"
+       id="text4583"
+       y="373.30069"
+       x="-427.72247"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.78271914px;line-height:521.00000381%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.17471838px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:1px"
+         y="373.30069"
+         x="-427.72247"
+         id="tspan4585"
+         sodipodi:role="line">en_us</tspan></text>
+    <g
+       id="g4587"
+       transform="matrix(0.39687499,0,0,0.39687499,-442.65429,369.12174)"
+       style="display:inline;fill:#ffffff;fill-opacity:1">
+      <g
+         transform="translate(-121,-447)"
+         style="display:inline;fill:#ffffff;fill-opacity:1"
+         inkscape:label="status"
+         id="g4589" />
+      <g
+         transform="translate(-121,-447)"
+         style="display:inline;fill:#ffffff;fill-opacity:1"
+         inkscape:label="devices"
+         id="g4591">
+        <path
+           style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;enable-background:accumulate"
+           sodipodi:nodetypes="sssssssssccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+           id="path4593"
+           d="m 122,449 c -0.554,0 -1,0.446 -1,1 l 0,10 c 0,0.554 0.446,1 1,1 l 14,0 c 0.554,0 1,-0.446 1,-1 l 0,-10 c 0,-0.554 -0.446,-1 -1,-1 z m 1.0002,2 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m -8,3 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m 3,0 2,0 0,2 -2,0 z m -10,3 2,0 0,2 -2,0 z m 3,0 6,0 0,2 -6,0 z m 7,0 3,0 0,2 -3,0 z"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="translate(-121,-447)"
+         inkscape:label="apps"
+         id="g4595"
+         style="fill:#ffffff;fill-opacity:1" />
+      <g
+         transform="translate(-121,-447)"
+         style="display:inline;fill:#ffffff;fill-opacity:1"
+         inkscape:label="places"
+         id="g4597" />
+      <g
+         transform="translate(-121,-447)"
+         inkscape:label="mimetypes"
+         id="g4599"
+         style="fill:#ffffff;fill-opacity:1" />
+      <g
+         transform="translate(-121,-447)"
+         style="display:inline;fill:#ffffff;fill-opacity:1"
+         inkscape:label="emblems"
+         id="g4601" />
+      <g
+         transform="translate(-121,-447)"
+         style="display:inline;fill:#ffffff;fill-opacity:1"
+         inkscape:label="emotes"
+         id="g4603" />
+      <g
+         transform="translate(-121,-447)"
+         style="display:inline;fill:#ffffff;fill-opacity:1"
+         inkscape:label="categories"
+         id="g4605" />
+      <g
+         transform="translate(-121,-447)"
+         style="display:inline;fill:#ffffff;fill-opacity:1"
+         inkscape:label="actions"
+         id="g4607" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4617"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#db3279;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-61.409993,-443.88135)"><flowRegion
+         id="flowRegion4619"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#db3279;fill-opacity:1;stroke-width:0.26458332px"><rect
+           id="rect4621"
+           width="232.30415"
+           height="8.2020874"
+           x="-645.55579"
+           y="361.99789"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#db3279;fill-opacity:1;stroke-width:0.26458332px" /></flowRegion><flowPara
+         style="fill:#db3279;stroke-width:0.26458332px"
+         id="flowPara4623">(Server artwork below, temporary filler; Workstation is green)</flowPara></flowRoot>  </g>
 </svg>
