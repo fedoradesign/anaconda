@@ -152,8 +152,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="1012.5163"
-     inkscape:cy="2428.851"
+     inkscape:cx="1251.1869"
+     inkscape:cy="1348.8291"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2054,5 +2054,19 @@
          style="fill:#db3279;stroke-width:0.26458332px"
          id="flowPara4639">in short list altho i don't think the DB we pull these from has</flowPara><flowPara
          style="fill:#db3279;stroke-width:0.26458332px"
-         id="flowPara4641">them in a nice format like this (mo)</flowPara></flowRoot>  </g>
+         id="flowPara4641">them in a nice format like this (mo)</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4643"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#db3279;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(277.52125,148.78534)"><flowRegion
+         id="flowRegion4645"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#db3279;fill-opacity:1;stroke-width:0.26458332px"><rect
+           id="rect4647"
+           width="140.22916"
+           height="23.547909"
+           x="-645.55579"
+           y="361.99789"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#db3279;fill-opacity:1;stroke-width:0.26458332px" /></flowRegion><flowPara
+         style="fill:#db3279;stroke-width:0.26458332px"
+         id="flowPara4649">Need mechanism for displaying which need to be filled out to continue (eg if no network, can't auto detect things, or network needs password so can't configure automatically) (mo)</flowPara></flowRoot>  </g>
 </svg>
