@@ -153,11 +153,11 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="1012.5163"
-     inkscape:cy="3035.851"
+     inkscape:cy="2428.851"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     showguides="false"
+     showguides="true"
      units="px"
      inkscape:window-width="2560"
      inkscape:window-height="1370"
@@ -1268,7 +1268,7 @@
          y="31.736204"
          x="-574.61725"
          id="tspan19412-3-2-2-2-5-6-9"
-         sodipodi:role="line">Spanish<tspan
+         sodipodi:role="line">Spanish, United States<tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:1px"
    id="tspan10798-8-5-4-0" /></tspan></text>
     <text
@@ -1816,7 +1816,7 @@
        xml:space="preserve"
        id="flowRoot12427-9-8-7-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(234.12958,-311.58969)"><flowRegion
+       transform="translate(234.12958,-322.17303)"><flowRegion
          id="flowRegion12429-7-3-1-3"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:0.26458332px"><rect
            id="rect12431-5-3-8-8"
@@ -1834,7 +1834,7 @@
        xml:space="preserve"
        id="flowRoot12427-9-8-7-6-1"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,-411.34385,13.985783)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-411.34385,8.6941164)"><flowRegion
          id="flowRegion12429-7-3-1-3-6"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:0.99999994px"><rect
            id="rect12431-5-3-8-8-1"
@@ -2034,5 +2034,25 @@
            y="361.99789"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#db3279;fill-opacity:1;stroke-width:0.26458332px" /></flowRegion><flowPara
          style="fill:#db3279;stroke-width:0.26458332px"
-         id="flowPara4623">(Server artwork below, temporary filler; Workstation is green)</flowPara></flowRoot>  </g>
+         id="flowPara4623">(Server artwork below, temporary filler; Workstation is green)</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4625"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#db3279;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(234.12955,-261.31896)"><flowRegion
+         id="flowRegion4627"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#db3279;fill-opacity:1;stroke-width:0.26458332px"><rect
+           id="rect4629"
+           width="142.61041"
+           height="30.691666"
+           x="-645.55579"
+           y="361.99789"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#db3279;fill-opacity:1;stroke-width:0.26458332px" /></flowRegion><flowPara
+         style="fill:#db3279;stroke-width:0.26458332px"
+         id="flowPara4631">Additional languages brings up a lightbox with full list?</flowPara><flowPara
+         style="fill:#db3279;stroke-width:0.26458332px"
+         id="flowPara4635">Probably should show locale next to Spanish / for any lang</flowPara><flowPara
+         style="fill:#db3279;stroke-width:0.26458332px"
+         id="flowPara4639">in short list altho i don't think the DB we pull these from has</flowPara><flowPara
+         style="fill:#db3279;stroke-width:0.26458332px"
+         id="flowPara4641">them in a nice format like this (mo)</flowPara></flowRoot>  </g>
 </svg>
