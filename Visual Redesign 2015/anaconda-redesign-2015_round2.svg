@@ -22,6 +22,10 @@
    inkscape:export-ydpi="90">
   <defs
      id="defs4">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect14724"
+       is_visible="true" />
     <marker
        inkscape:stockid="Arrow1Lstart"
        orient="auto"
@@ -191,6 +195,21 @@
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
          inkscape:connector-curvature="0" />
     </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path14067-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#888a85;fill-opacity:1;fill-rule:evenodd;stroke:#888a85;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -200,8 +219,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="1547.2312"
-     inkscape:cy="2445.4254"
+     inkscape:cx="1496.2312"
+     inkscape:cy="1043.9307"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1699,27 +1718,27 @@
        id="rect13948"
        width="147.90208"
        height="60.060417"
-       x="-600.33948"
+       x="-591.74054"
        y="592.8042" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:9.16486359px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-526.22955"
+       x="-517.63068"
        y="613.90674"
        id="text13950"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan13952"
-         x="-526.22955"
+         x="-517.63068"
          y="613.90674"
          style="stroke-width:0.26458335px">Confirmation / warning</tspan><tspan
          sodipodi:role="line"
-         x="-524.77069"
+         x="-516.17181"
          y="625.36279"
          style="stroke-width:0.26458335px"
          id="tspan13954">about modifying stuff </tspan><tspan
          sodipodi:role="line"
-         x="-526.22955"
+         x="-517.63068"
          y="636.81891"
          style="stroke-width:0.26458335px"
          id="tspan13960">goes here!</tspan></text>
@@ -1837,12 +1856,12 @@
          style="stroke-width:0.26458332px"
          id="flowPara12489-93-2-1">Advanced partitioning will show an informative dialog, then quit the installer and open up a partitioning tool. When coming back to the installer, it will skip this step, as there will be adequate free space.</flowPara></flowRoot>    <path
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#888a85;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.79374999, 0.79374999;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-       d="m -526.25623,570.31459 0,18.52083"
+       d="m -517.78952,570.31459 0,18.52083"
        id="path16736"
        inkscape:connector-curvature="0" />
     <path
        style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#888a85;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.79374999, 0.79374999;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend-8)"
-       d="m -526.25624,656.56876 0,18.52083"
+       d="m -517.78952,656.56876 0,18.52083"
        id="path16736-2"
        inkscape:connector-curvature="0" />
     <flowRoot
@@ -2322,7 +2341,7 @@
        transform="scale(1,-1)" />
     <path
        style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#888a85;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.79374999, 0.79374999;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend-8-2)"
-       d="m -526.25624,887.28542 0,18.52083"
+       d="m -517.78952,887.28542 0,18.52083"
        id="path16736-2-9"
        inkscape:connector-curvature="0" />
     <flowRoot
@@ -2339,5 +2358,37 @@
            y="-94.386963"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:0.26458332px" /></flowRegion><flowPara
          id="flowPara13738-2"
-         style="stroke-width:0.26458332px">We might want to make this screeen a little flashier. However, I don't think we need much more functionally on this confirmation screen.</flowPara></flowRoot>  </g>
+         style="stroke-width:0.26458332px">We might want to make this screeen a little flashier. However, I don't think we need much more functionally on this confirmation screen.</flowPara></flowRoot>    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#fef5b1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.64600015;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72682932;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect13948-2"
+       width="147.90208"
+       height="60.060417"
+       x="-326.49573"
+       y="911.89172" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.16486359px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-252.3858"
+       y="939.6106"
+       id="text13950-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-252.3858"
+         y="939.6106"
+         style="stroke-width:0.26458335px"
+         id="tspan13960-5">Installation error</tspan><tspan
+         sodipodi:role="line"
+         x="-252.3858"
+         y="951.06665"
+         style="stroke-width:0.26458335px"
+         id="tspan14731">screen here!</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#888a85;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.79374999, 0.79374999;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend-2)"
+       d="m -429.66718,888.53407 c 5.75988,1.92022 11.64084,3.47718 17.59632,4.65856 12.32978,2.44584 24.99744,3.27435 37.52126,2.19756 16.50379,-1.41898 32.56157,-6.10688 48.99925,-8.15419 8.21883,-1.02365 16.56364,-1.38203 24.77897,-0.33064 8.21534,1.05139 16.31746,3.55029 23.34058,7.94039 5.34616,3.34185 10.01828,7.75713 13.65674,12.90601"
+       id="path16736-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="caacc"
+       inkscape:path-effect="#path-effect14724"
+       inkscape:original-d="m -429.66718,888.53407 c 0,0 11.10555,3.6603 17.59632,4.65856 11.87968,1.82706 24.9214,1.86575 37.52126,2.19756 32.31458,0.85096 68.41646,-8.63242 97.1188,-0.54444 17.64712,5.24747 13.65674,-2.02142 13.65674,12.90601" />
+  </g>
 </svg>
