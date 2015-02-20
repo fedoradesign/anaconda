@@ -61,28 +61,6 @@
        effect="spiro"
        id="path-effect14000"
        is_visible="true" />
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath12115">
-      <rect
-         style="display:inline;opacity:1;fill:#006eb4;fill-opacity:1;stroke:none;stroke-width:0.26458341;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect12117"
-         width="270.93335"
-         height="16.933332"
-         x="2.3437501e-06"
-         y="111.79162" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath13076">
-      <rect
-         y="138.51471"
-         x="-645.31885"
-         height="61.383331"
-         width="270.93335"
-         id="rect13078"
-         style="display:inline;opacity:1;fill:#006eb4;fill-opacity:1;stroke:none;stroke-width:0.26458341;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </clipPath>
     <marker
        inkscape:stockid="Arrow1Lstart"
        orient="auto"
@@ -219,8 +197,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.17463235"
-     inkscape:cx="-355.11707"
-     inkscape:cy="2133.5258"
+     inkscape:cx="-435.28549"
+     inkscape:cy="2597.3574"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
