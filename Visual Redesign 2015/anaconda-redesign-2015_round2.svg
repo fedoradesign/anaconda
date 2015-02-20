@@ -15,7 +15,7 @@
    viewBox="0 0 719.66665 865.1875"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r13893"
+   inkscape:version="0.91+devel r13925"
    sodipodi:docname="anaconda-redesign-2015_round2.svg"
    inkscape:export-filename="./anaconda-redesign-2015-garrett.png"
    inkscape:export-xdpi="90"
@@ -163,10 +163,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="1202.3279"
-     inkscape:cy="2738.4543"
+     inkscape:cx="1791.3279"
+     inkscape:cy="1861.4543"
      inkscape:document-units="px"
-     inkscape:current-layer="g6365"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      units="px"
@@ -1749,7 +1749,7 @@
        xml:space="preserve"
        id="flowRoot12427-9-8"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(429.1275,-162.89387)"><flowRegion
+       transform="translate(429.1275,-164.45196)"><flowRegion
          id="flowRegion12429-7-3"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:0.26458332px"><rect
            id="rect12431-5-3"
@@ -1763,7 +1763,7 @@
        xml:space="preserve"
        id="flowRoot12427-9-8-8"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(428.97319,-114.7622)"><flowRegion
+       transform="translate(428.97319,-116.88147)"><flowRegion
          id="flowRegion12429-7-3-7"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:0.26458332px"><rect
            id="rect12431-5-3-0"
@@ -1773,11 +1773,11 @@
            y="362.28418"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:0.26458332px" /></flowRegion><flowPara
          style="stroke-width:0.26458332px"
-         id="flowPara12489-93-2">Formatting the entire disk means it will wipe out everything. Most people using Windows and OS X are familiar with &quot;formatting&quot; a disk, and the &quot;entire&quot; clues-in those who are not. Like resizing, this will proceed to the next page and will actually not do anything until the actual installation procedure begins.</flowPara></flowRoot>    <flowRoot
+         id="flowPara12489-93-2">Erasing the entire disk, like resizing, this will proceed to the next page and will actually not do anything until the actual installation procedure begins.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot12427-9-8-8-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(428.98882,-66.82862)"><flowRegion
+       transform="translate(428.98882,-87.201548)"><flowRegion
          id="flowRegion12429-7-3-7-5"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:0.26458332px"><rect
            id="rect12431-5-3-0-4"
