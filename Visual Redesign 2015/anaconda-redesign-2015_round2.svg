@@ -219,8 +219,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="1496.2312"
-     inkscape:cy="1043.9307"
+     inkscape:cx="957.23125"
+     inkscape:cy="-1048.0693"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2288,18 +2288,18 @@
        width="34.660416"
        height="9.260417"
        x="-535.11975"
-       y="1021.429"
+       y="1024.0748"
        rx="0.79374999"
        ry="0.79374993" />
     <text
        sodipodi:linespacing="521%"
        id="text19530-8-5-1-8-7-6"
-       y="1027.4827"
+       y="1030.1285"
        x="-517.94556"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.78271914px;line-height:521.00000381%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.17471838px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:1px"
-         y="1027.4827"
+         y="1030.1285"
          x="-517.94556"
          id="tspan19532-7-4-2-2-58-4"
          sodipodi:role="line">Reboot now</tspan></text>
@@ -2390,5 +2390,22 @@
        sodipodi:nodetypes="caacc"
        inkscape:path-effect="#path-effect14724"
        inkscape:original-d="m -429.66718,888.53407 c 0,0 11.10555,3.6603 17.59632,4.65856 11.87968,1.82706 24.9214,1.86575 37.52126,2.19756 32.31458,0.85096 68.41646,-8.63242 97.1188,-0.54444 17.64712,5.24747 13.65674,-2.02142 13.65674,12.90601" />
+    <text
+       sodipodi:linespacing="120%"
+       id="text19410-6-1-0-76-5-1-9"
+       y="1001.0275"
+       x="-517.90814"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle;fill:#555753;fill-opacity:1;stroke-width:1px"
+         y="1001.0275"
+         x="-517.23291"
+         sodipodi:role="line"
+         id="tspan14762">After rebooting, you will be asked </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle;fill:#555753;fill-opacity:1;stroke-width:1px"
+         y="1006.9542"
+         x="-517.90814"
+         sodipodi:role="line"
+         id="tspan14766">a few questions to finalize installation.</tspan></text>
   </g>
 </svg>
