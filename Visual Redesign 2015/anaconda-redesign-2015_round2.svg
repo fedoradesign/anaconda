@@ -163,8 +163,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="1791.3279"
-     inkscape:cy="1861.4543"
+     inkscape:cx="1181.3279"
+     inkscape:cy="946.4543"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1056,7 +1056,9 @@
    style="font-weight:bold"
    id="flowSpan12507">resize interface </flowSpan>to free up space.</flowPara><flowPara
          id="flowPara12518" /><flowPara
-         id="flowPara12520">Clicking on installation destination area will show extremely basic disk selection, providing a way for super-basic paritioning and a link to an advanced method for diving into the deep-end (full partition editor).</flowPara></flowRoot>    <flowRoot
+         id="flowPara12520">Clicking on installation destination area will show extremely basic disk selection, providing a way for super-basic paritioning and a link to an advanced method for diving into the deep-end (full partition editor).</flowPara><flowPara
+         id="flowPara13736" /><flowPara
+         id="flowPara13738" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot12427-9"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2005,5 +2007,37 @@
          inkscape:label="actions"
          id="g4607" />
     </g>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot12427-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#cc0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(412.85211,609.95508)"><flowRegion
+         id="flowRegion12429-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#cc0000;fill-opacity:1;stroke-width:0.26458332px"><rect
+           id="rect12431-9"
+           width="124.61875"
+           height="125.67708"
+           x="-780.09436"
+           y="-94.672935"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#cc0000;fill-opacity:1;stroke-width:0.26458332px" /></flowRegion><flowPara
+         id="flowPara13738-5"
+         style="fill:#cc0000;stroke-width:0.26458332px">Why is there a keyboard switcher at the top, when it’s already in the list of items to change on this page?</flowPara><flowPara
+         style="fill:#cc0000;stroke-width:0.26458332px"
+         id="flowPara13866">   — Garrett</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot12427-4-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#cc0000;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-216.37924,309.80853)"><flowRegion
+         id="flowRegion12429-1-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#cc0000;fill-opacity:1;stroke-width:0.99999994px"><rect
+           id="rect12431-9-6"
+           width="471"
+           height="475"
+           x="-0.002265553"
+           y="-5.4100127"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#cc0000;fill-opacity:1;stroke-width:0.99999994px" /></flowRegion><flowPara
+         id="flowPara13738-5-1"
+         style="fill:#cc0000;stroke-width:0.99999994px">Would it be possible — or even make sense — to have a backup mechanism here? (Just speculating…)</flowPara><flowPara
+         style="fill:#cc0000;stroke-width:0.99999994px"
+         id="flowPara13866-7">   — Garrett</flowPara></flowRoot>  </g>
 </svg>
