@@ -200,8 +200,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="1875.2312"
-     inkscape:cy="1475.4254"
+     inkscape:cx="1547.2312"
+     inkscape:cy="2445.4254"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2077,7 +2077,7 @@
          id="flowRegion12429-1-1"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#cc0000;fill-opacity:1;stroke-width:0.99999994px"><rect
            id="rect12431-9-6"
-           width="471"
+           width="466"
            height="475"
            x="-0.002265553"
            y="-5.4100127"
@@ -2087,7 +2087,7 @@
          style="fill:#cc0000;stroke-width:0.99999994px"
          id="flowPara14682" /><flowPara
          style="fill:#cc0000;stroke-width:0.99999994px"
-         id="flowPara14684">However, a drawback with backing up data is how to handle it. There's a lot of hidden UI with that. Perhaps this is best left to a backup utility in the Live image?</flowPara><flowPara
+         id="flowPara14684">However, a drawback with backing up data is how to handle it. There's a lot of hidden UI with that. This is probably best left to a backup utility in the Live image, or a tool inside the preinstalled OS.</flowPara><flowPara
          style="fill:#cc0000;stroke-width:0.99999994px"
          id="flowPara13866-7">   — Garrett</flowPara></flowRoot>    <rect
        y="679.58771"
