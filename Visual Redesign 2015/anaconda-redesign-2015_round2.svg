@@ -15,7 +15,7 @@
    viewBox="0 0 719.66665 1264.9729"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r13925"
+   inkscape:version="0.91+devel r13893"
    sodipodi:docname="anaconda-redesign-2015_round2.svg"
    inkscape:export-filename="./anaconda-redesign-2015-garrett.png"
    inkscape:export-xdpi="90"
@@ -196,9 +196,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.17463235"
-     inkscape:cx="-435.28549"
-     inkscape:cy="2597.3574"
+     inkscape:zoom="1"
+     inkscape:cx="990.49297"
+     inkscape:cy="4271.2972"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -222,7 +222,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1111,17 +1111,29 @@
          id="flowRegion12429"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:0.26458332px"><rect
            id="rect12431"
-           width="76.729164"
-           height="125.14791"
+           width="85.195824"
+           height="193.4104"
            x="-367.24164"
            y="707.89795"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:0.26458332px" /></flowRegion><flowPara
          id="flowPara13738"
          style="stroke-width:0.26458332px">Server and Cloud should be a little different on the installation screen, as there would not typically be a post-install configuration.</flowPara><flowPara
          style="stroke-width:0.26458332px"
-         id="flowPara14678"></flowPara><flowPara
+         id="flowPara14542" /><flowPara
+         style="fill:#db3279;stroke-width:0.26458332px"
+         id="flowPara14544">Cloud doesn't use the installer. Server may have post-install configuration for layered apps on top - so that needs to be available. At a minimum we need to allow for root password creation for Server here. (mo)</flowPara><flowPara
          style="stroke-width:0.26458332px"
-         id="flowPara14680">However, on Workstation, there’s a first boot configuration process which sets up a user (with admin rights), so setting users and passwords here is unnecessary (and confusing) for people installing Fedora Workstation.</flowPara></flowRoot>    <flowRoot
+         id="flowPara14678" /><flowPara
+         style="stroke-width:0.26458332px"
+         id="flowPara14680">However, on Workstation, there’s a first boot configuration process which sets up a user (with admin rights), so setting users and passwords here is unnecessary (and confusing) for people installing Fedora Workstation.</flowPara><flowPara
+         style="stroke-width:0.26458332px"
+         id="flowPara14556" /><flowPara
+         style="fill:#db3279;stroke-width:0.26458332px"
+         id="flowPara14558">gnome initial-setup doesn't cover the non-GNOME desktop installation case (anaconda serves other desktop spins too) - this was designed first. it is a bug in gnome intial setup that it asks the same questions multiple times, because we were told that g-i-s would check and not reask and that was never implemented to my knowledge. (mo)</flowPara><flowPara
+         style="fill:#db3279;stroke-width:0.26458332px"
+         id="flowPara14560"></flowPara><flowPara
+         style="fill:#db3279;stroke-width:0.26458332px"
+         id="flowPara14562">We also need the banners here (mo) </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot12427-9"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2058,45 +2070,7 @@
          inkscape:label="actions"
          id="g4607" />
     </g>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot12427-4"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#cc0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(412.85211,609.95508)"><flowRegion
-         id="flowRegion12429-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#cc0000;fill-opacity:1;stroke-width:0.26458332px"><rect
-           id="rect12431-9"
-           width="124.61875"
-           height="125.67708"
-           x="-780.09436"
-           y="-94.672935"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#cc0000;fill-opacity:1;stroke-width:0.26458332px" /></flowRegion><flowPara
-         id="flowPara13738-5"
-         style="fill:#cc0000;stroke-width:0.26458332px">Why is there a keyboard switcher at the top, when it’s already in the list of items to change on this page?</flowPara><flowPara
-         style="fill:#cc0000;stroke-width:0.26458332px"
-         id="flowPara14770">(Also, it's inferred from the very first screen as well.)</flowPara><flowPara
-         style="fill:#cc0000;stroke-width:0.26458332px"
-         id="flowPara13866">   — Garrett</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot12427-4-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#cc0000;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,-216.37924,309.80853)"><flowRegion
-         id="flowRegion12429-1-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#cc0000;fill-opacity:1;stroke-width:0.99999994px"><rect
-           id="rect12431-9-6"
-           width="466"
-           height="475"
-           x="-0.002265553"
-           y="-5.4100127"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#cc0000;fill-opacity:1;stroke-width:0.99999994px" /></flowRegion><flowPara
-         id="flowPara13738-5-1"
-         style="fill:#cc0000;stroke-width:0.99999994px">Would it be possible — or even make sense — to have a backup mechanism here? (Just speculating…) I'd guess people using existing operating systems would probably not have backed up before getting to this step, and losing data is an awful thing. Ideally, there shouldn't be any problem (but I always hear about how resizing is risky, but have never experienced problems myself).</flowPara><flowPara
-         style="fill:#cc0000;stroke-width:0.99999994px"
-         id="flowPara14682" /><flowPara
-         style="fill:#cc0000;stroke-width:0.99999994px"
-         id="flowPara14684">However, a drawback with backing up data is how to handle it. There's a lot of hidden UI with that. This is probably best left to a backup utility in the Live image, or a tool inside the preinstalled OS.</flowPara><flowPara
-         style="fill:#cc0000;stroke-width:0.99999994px"
-         id="flowPara13866-7">   — Garrett</flowPara></flowRoot>    <rect
+    <rect
        y="679.58771"
        x="-653.25616"
        height="203.2"
@@ -2395,5 +2369,15 @@
          x="-517.90814"
          sodipodi:role="line"
          id="tspan14766">a few questions to finalize installation.</tspan></text>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot14548"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion14550"><rect
+           id="rect14552"
+           width="71"
+           height="87"
+           x="107"
+           y="3186" /></flowRegion><flowPara
+         id="flowPara14554"></flowPara></flowRoot>  </g>
 </svg>
