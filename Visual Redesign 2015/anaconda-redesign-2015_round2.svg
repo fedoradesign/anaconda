@@ -197,8 +197,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="1160.493"
-     inkscape:cy="4370.2972"
+     inkscape:cx="1039.493"
+     inkscape:cy="4393.2972"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1375,20 +1375,6 @@
          x="-574.61725"
          id="tspan19412-3-2-2-2-5-6-9"
          sodipodi:role="line">Español, Estados Unidos</tspan></text>
-    <text
-       sodipodi:linespacing="521%"
-       id="text19410-6-1-1-2-5-5-8"
-       y="44.965366"
-       x="-574.61725"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:521.00000381%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:1px"
-         y="44.965366"
-         x="-574.61725"
-         id="tspan19412-3-2-2-2-5-6-3"
-         sodipodi:role="line">Additional languages…<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:1px"
-   id="tspan10798-8-5-4-10" /></tspan></text>
     <rect
        style="display:inline;opacity:1;fill:#d3d7cf;fill-opacity:1;stroke:none;stroke-width:0.26458341;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect12889-5-2-1-4-3-5-5"
@@ -2381,5 +2367,87 @@
            height="87"
            x="107"
            y="3186" /></flowRegion><flowPara
-         id="flowPara14554" /></flowRoot>  </g>
+         id="flowPara14554" /></flowRoot>    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.05;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.64600015;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72682932;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect13007-6"
+       width="82.285416"
+       height="9.7895842"
+       x="-578.90796"
+       y="61.785637"
+       ry="0.79375005"
+       rx="0.79374999" />
+    <g
+       id="g13512"
+       transform="matrix(0.26458333,0,0,0.26458333,-539.99382,64.695841)">
+      <g
+         transform="translate(-121.0004,-867)"
+         style="display:inline"
+         inkscape:label="status"
+         id="layer9" />
+      <g
+         transform="translate(-121.0004,-867)"
+         inkscape:label="devices"
+         id="layer10" />
+      <g
+         transform="translate(-121.0004,-867)"
+         inkscape:label="apps"
+         id="layer11" />
+      <g
+         transform="translate(-121.0004,-867)"
+         inkscape:label="places"
+         id="layer13" />
+      <g
+         transform="translate(-121.0004,-867)"
+         inkscape:label="mimetypes"
+         id="layer14" />
+      <g
+         transform="translate(-121.0004,-867)"
+         style="display:inline"
+         inkscape:label="emblems"
+         id="layer15" />
+      <g
+         transform="translate(-121.0004,-867)"
+         style="display:inline"
+         inkscape:label="emotes"
+         id="g71291" />
+      <g
+         transform="translate(-121.0004,-867)"
+         style="display:inline"
+         inkscape:label="categories"
+         id="g4953" />
+      <g
+         transform="translate(-121.0004,-867)"
+         style="display:inline"
+         inkscape:label="actions"
+         id="layer12">
+        <rect
+           y="867"
+           x="127.0002"
+           width="4"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
+           ry="0.50229359"
+           rx="0.38461545"
+           id="rect20592"
+           height="4" />
+        <rect
+           y="873"
+           x="127.0002"
+           width="4"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
+           ry="0.50229359"
+           rx="0.38461545"
+           id="rect16730"
+           height="4" />
+        <rect
+           y="879"
+           x="127.0002"
+           width="4"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
+           ry="0.50229359"
+           rx="0.38461545"
+           id="rect16732"
+           height="4" />
+      </g>
+    </g>
+  </g>
 </svg>
