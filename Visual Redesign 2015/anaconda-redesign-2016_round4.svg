@@ -515,8 +515,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="2839.2361"
-     inkscape:cy="3341.9585"
+     inkscape:cx="1817.2361"
+     inkscape:cy="4599.9585"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -4892,7 +4892,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot12427-2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.7041668px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        transform="translate(-201.35837,138.11247)"><flowRegion
          id="flowRegion12429-3"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:0.26458332px"><rect
@@ -4901,8 +4901,8 @@
            height="220.13332"
            x="-367.24164"
            y="707.89795"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:0.26458332px" /></flowRegion><flowPara
-         style="font-size:3.70416665px;fill:#555753;stroke-width:0.26458332px"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.7041668px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:0.26458332px;" /></flowRegion><flowPara
+         style="font-size:3.7041668px;fill:#555753;stroke-width:0.26458332px;-inkscape-font-specification:'Cantarell Bold';font-family:Cantarell;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="flowPara4973-4">Default installer (GNOME)</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot12427-2-4"
@@ -4916,7 +4916,7 @@
            x="-933.74359"
            y="-96.224457"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:0.26458332px" /></flowRegion><flowPara
-         style="font-size:3.70416665px;fill:#555753;stroke-width:0.26458332px"
+         style="font-size:3.70416665px;fill:#555753;stroke-width:0.26458332px;font-weight:bold"
          id="flowPara4973-4-1">Version that supports hubs for RHEL, Spins</flowPara><flowPara
          style="font-size:3.70416665px;fill:#555753;stroke-width:0.26458332px"
          id="flowPara18783">(such as KDE / other desktops without a first boot experience)</flowPara></flowRoot>    <flowRoot
@@ -5872,7 +5872,7 @@ PP4jwzA2QInTMU1ze5lLihBCnCalrCgrbr34PyMFajphg1KsAAAAAElFTkSuQmCC
     <flowRoot
        xml:space="preserve"
        id="flowRoot12427-2-8"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.99999905px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.00000014px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        transform="matrix(0.26458334,0,0,0.26458334,-679.96032,1103.5042)"><flowRegion
          id="flowRegion12429-3-4"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666412px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:0.26458332px"><rect
@@ -5881,12 +5881,12 @@ PP4jwzA2QInTMU1ze5lLihBCnCalrCgrbr34PyMFajphg1KsAAAAAElFTkSuQmCC
            height="831.99988"
            x="-1.1879238"
            y="-3.2026887"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.99999905px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:0.26458332px" /></flowRegion><flowPara
-         style="font-size:13.99999905px;fill:#555753;stroke-width:0.26458332px"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.00000014px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:0.26458332px;" /></flowRegion><flowPara
+         style="font-size:14.00000014px;fill:#555753;stroke-width:0.26458332px;-inkscape-font-specification:'Cantarell Bold';font-family:Cantarell;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="flowPara4973-4-2">Default installer</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot12427-2-8-6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.7041668px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        transform="translate(539.15914,1198.9692)"><flowRegion
          id="flowRegion12429-3-4-5"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:0.26458332px"><rect
@@ -5895,7 +5895,7 @@ PP4jwzA2QInTMU1ze5lLihBCnCalrCgrbr34PyMFajphg1KsAAAAAElFTkSuQmCC
            height="220.13332"
            x="-933.74432"
            y="-96.312744"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:0.26458332px" /></flowRegion><flowPara
-         style="font-size:3.70416665px;fill:#555753;stroke-width:0.26458332px"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.7041668px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:0.26458332px;" /></flowRegion><flowPara
+         style="font-size:3.7041668px;fill:#555753;stroke-width:0.26458332px;-inkscape-font-specification:'Cantarell Bold';font-family:Cantarell;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="flowPara4973-4-2-8">Live media installer</flowPara></flowRoot>  </g>
 </svg>
