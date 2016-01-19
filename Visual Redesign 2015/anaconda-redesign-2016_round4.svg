@@ -431,19 +431,6 @@
          id="rect6380-7"
          style="display:inline;opacity:1;fill:#006eb4;fill-opacity:1;stroke:none;stroke-width:0.26458341;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </clipPath>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter21074"
-       x="-0.04401315"
-       width="1.0880263"
-       y="-0.094225392"
-       height="1.1884508">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.8438146"
-         id="feGaussianBlur21076" />
-    </filter>
     <marker
        inkscape:stockid="Arrow1Lend"
        orient="auto"
@@ -463,6 +450,62 @@
        effect="spiro"
        id="path-effect14724-2-7"
        is_visible="true" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter21074-8"
+       x="-0.04401315"
+       width="1.0880263"
+       y="-0.094225392"
+       height="1.1884508">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.8438146"
+         id="feGaussianBlur21076-2" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter21074-8-9"
+       x="-0.04401315"
+       width="1.0880263"
+       y="-0.094225392"
+       height="1.1884508">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.8438146"
+         id="feGaussianBlur21076-2-9" />
+    </filter>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-28"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path14067-26"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#888a85;fill-opacity:1;fill-rule:evenodd;stroke:#888a85;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path14067-76"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#888a85;fill-opacity:1;fill-rule:evenodd;stroke:#888a85;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -472,8 +515,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="1803.2993"
-     inkscape:cy="4589.6953"
+     inkscape:cx="1982.9044"
+     inkscape:cy="2489.5882"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -508,7 +551,8 @@
      transform="translate(933.42928,95.377073)"
      style="display:inline">
     <g
-       id="g20534">
+       id="g20534"
+       transform="translate(50.270829,0)">
       <rect
          style="display:inline;opacity:1;fill:#eaeaea;fill-opacity:1;stroke:none;stroke-width:0.26458338;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect14031-5-4-36"
@@ -1153,7 +1197,7 @@
        id="rect20647"
        width="270.93332"
        height="203.2"
-       x="-653.25623"
+       x="-602.98578"
        y="608.94379" />
     <flowRoot
        xml:space="preserve"
@@ -5429,146 +5473,8 @@ PP4jwzA2QInTMU1ze5lLihBCnCalrCgrbr34PyMFajphg1KsAAAAAElFTkSuQmCC
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cac" />
     <g
-       style="display:inline;opacity:0.4;fill:#000000;stroke:none;filter:url(#filter21074)"
-       id="g21001-2"
-       transform="translate(-210.36447,3.9688461)">
-      <rect
-         ry="2.3812501"
-         rx="2.3812497"
-         y="684.21765"
-         x="-357.56363"
-         height="46.831249"
-         width="100.27708"
-         id="rect10202-4"
-         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text10204-6"
-         y="695.93597"
-         x="-307.36002"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.76249981px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="695.93597"
-           x="-307.36002"
-           sodipodi:role="line"
-           id="tspan10206-5">Continue Installation?</tspan></text>
-      <path
-         inkscape:connector-curvature="0"
-         id="path10208-9"
-         d="m -357.69596,719.67179 100.54166,0"
-         style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416689px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-         x="-282.44852"
-         y="726.6272"
-         id="text10210-5"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan10212-8"
-           x="-282.44852"
-           y="726.6272">Install</tspan></text>
-      <path
-         inkscape:connector-curvature="0"
-         id="path10214-7"
-         d="m -307.55742,719.5395 0,11.64166"
-         style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416689px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-         x="-332.57724"
-         y="726.6272"
-         id="text10216-5"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan10218-9"
-           x="-332.57724"
-           y="726.6272">Cancel</tspan></text>
-      <flowRoot
-         transform="translate(575.7333,779.46247)"
-         xml:space="preserve"
-         id="flowRoot10220-1"
-         style="font-style:normal;font-weight:bold;font-size:10.58333397px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
-           id="flowRegion10222-7"><rect
-             id="rect10224-6"
-             width="88.635406"
-             height="56.885406"
-             x="-927.49915"
-             y="-77.650063"
-             style="text-align:center;text-anchor:middle;fill:#000000;stroke:none" /></flowRegion><flowPara
-           id="flowPara10226-7"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.63802075px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none">When you continue, this will change the contents of your disk. There is no going back.</flowPara></flowRoot>    </g>
-    <g
        id="g21001"
-       transform="translate(-210.36446,2.9105091)">
-      <rect
-         ry="2.3812501"
-         rx="2.3812497"
-         y="684.21765"
-         x="-357.56363"
-         height="46.831249"
-         width="100.27708"
-         id="rect10202"
-         style="display:inline;fill:#eaeaea;fill-opacity:1;stroke:#919191;stroke-width:0.26458332;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text10204"
-         y="695.93597"
-         x="-307.36002"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.76249981px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="695.93597"
-           x="-307.36002"
-           sodipodi:role="line"
-           id="tspan10206">Continue Installation?</tspan></text>
-      <path
-         inkscape:connector-curvature="0"
-         id="path10208"
-         d="m -357.69596,719.67179 100.54166,0"
-         style="fill:none;fill-rule:evenodd;stroke:#919191;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416689px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
-         x="-282.44852"
-         y="726.6272"
-         id="text10210"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan10212"
-           x="-282.44852"
-           y="726.6272">Install</tspan></text>
-      <path
-         inkscape:connector-curvature="0"
-         id="path10214"
-         d="m -307.55742,719.5395 0,11.64166"
-         style="fill:none;fill-rule:evenodd;stroke:#919191;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416689px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
-         x="-332.57724"
-         y="726.6272"
-         id="text10216"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan10218"
-           x="-332.57724"
-           y="726.6272">Cancel</tspan></text>
-      <flowRoot
-         transform="translate(575.7333,779.46247)"
-         xml:space="preserve"
-         id="flowRoot10220"
-         style="font-style:normal;font-weight:bold;font-size:10.58333397px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
-           id="flowRegion10222"><rect
-             id="rect10224"
-             width="88.635406"
-             height="56.885406"
-             x="-927.49915"
-             y="-77.650063"
-             style="text-align:center;text-anchor:middle;fill:#2e3436" /></flowRegion><flowPara
-           id="flowPara10226"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.63802075px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#2e3436">When you continue, this will change the contents</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.63802075px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#2e3436"
-           id="flowPara21182">of your disk. There is no going back.</flowPara></flowRoot>    </g>
+       transform="translate(-210.36446,2.9105091)" />
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -5620,5 +5526,343 @@ PP4jwzA2QInTMU1ze5lLihBCnCalrCgrbr34PyMFajphg1KsAAAAAElFTkSuQmCC
        sodipodi:nodetypes="caacc"
        inkscape:path-effect="#path-effect14724-2-7"
        inkscape:original-d="m -373.73965,482.95775 c 0,0 21.7644,8.5718 33.06435,9.83923 12.07518,1.35438 24.20134,-2.9141 36.32266,-2.47721 16.01288,0.57715 18.8653,0.5638 47.73933,6.72269 17.75273,3.99596 42.52111,-0.1106 42.52111,11.2552" />
+    <g
+       style="display:inline;opacity:0.4;fill:#000000;stroke:none;filter:url(#filter21074-8)"
+       id="g21001-2-2"
+       transform="translate(56.929212,3.9688435)">
+      <rect
+         ry="2.3812501"
+         rx="2.3812497"
+         y="684.21765"
+         x="-357.56363"
+         height="46.831249"
+         width="100.27708"
+         id="rect10202-4-9"
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text10204-6-2"
+         y="695.93597"
+         x="-307.36002"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.76249981px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="695.93597"
+           x="-307.36002"
+           sodipodi:role="line"
+           id="tspan10206-5-0">Continue Installation?</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path10208-9-8"
+         d="m -357.69596,719.67179 100.54166,0"
+         style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416689px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+         x="-282.44852"
+         y="726.6272"
+         id="text10210-5-6"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan10212-8-9"
+           x="-282.44852"
+           y="726.6272">Install</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path10214-7-2"
+         d="m -307.55742,719.5395 0,11.64166"
+         style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416689px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+         x="-332.57724"
+         y="726.6272"
+         id="text10216-5-3"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan10218-9-7"
+           x="-332.57724"
+           y="726.6272">Cancel</tspan></text>
+      <flowRoot
+         transform="translate(575.7333,779.46247)"
+         xml:space="preserve"
+         id="flowRoot10220-1-1"
+         style="font-style:normal;font-weight:bold;font-size:10.58333397px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+           id="flowRegion10222-7-2"><rect
+             id="rect10224-6-6"
+             width="88.635406"
+             height="56.885406"
+             x="-927.49915"
+             y="-77.650063"
+             style="text-align:center;text-anchor:middle;fill:#000000;stroke:none" /></flowRegion><flowPara
+           id="flowPara10226-7-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.63802075px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none">When you continue, this will change the contents of your disk. There is no going back.</flowPara></flowRoot>    </g>
+    <g
+       style="display:inline"
+       id="g21001-6"
+       transform="translate(56.929242,2.9105035)">
+      <rect
+         ry="2.3812501"
+         rx="2.3812497"
+         y="684.21765"
+         x="-357.56363"
+         height="46.831249"
+         width="100.27708"
+         id="rect10202-2"
+         style="display:inline;fill:#eaeaea;fill-opacity:1;stroke:#919191;stroke-width:0.26458332;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text10204-4"
+         y="695.93597"
+         x="-307.36002"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.76249981px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="695.93597"
+           x="-307.36002"
+           sodipodi:role="line"
+           id="tspan10206-7">Continue Installation?</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path10208-5"
+         d="m -357.69596,719.67179 100.54166,0"
+         style="fill:none;fill-rule:evenodd;stroke:#919191;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416689px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
+         x="-282.44852"
+         y="726.6272"
+         id="text10210-3"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan10212-6"
+           x="-282.44852"
+           y="726.6272">Erase &amp; Install</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path10214-5"
+         d="m -307.55742,719.5395 0,11.64166"
+         style="fill:none;fill-rule:evenodd;stroke:#919191;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416689px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
+         x="-332.57724"
+         y="726.6272"
+         id="text10216-0"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan10218-3"
+           x="-332.57724"
+           y="726.6272">Cancel</tspan></text>
+      <flowRoot
+         transform="translate(575.7333,779.46247)"
+         xml:space="preserve"
+         id="flowRoot10220-2"
+         style="font-style:normal;font-weight:bold;font-size:10.58333397px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+           id="flowRegion10222-0"><rect
+             id="rect10224-4"
+             width="88.635406"
+             height="56.885406"
+             x="-927.49915"
+             y="-77.650063"
+             style="text-align:center;text-anchor:middle;fill:#2e3436" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.63802075px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#2e3436"
+           id="flowPara22483">Existing data on your disk will be erased</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.63802075px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#2e3436"
+           id="flowPara22487">and Fedora will be installed.</flowPara></flowRoot>    </g>
+    <g
+       style="display:inline;opacity:0.4;fill:#000000;stroke:none;filter:url(#filter21074-8-9)"
+       id="g21001-2-2-3"
+       transform="translate(-160.09367,3.9688435)">
+      <rect
+         ry="2.3812501"
+         rx="2.3812497"
+         y="684.21765"
+         x="-357.56363"
+         height="46.831249"
+         width="100.27708"
+         id="rect10202-4-9-4"
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text10204-6-2-9"
+         y="695.93597"
+         x="-307.36002"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.76249981px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="695.93597"
+           x="-307.36002"
+           sodipodi:role="line"
+           id="tspan10206-5-0-3">Continue Installation?</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path10208-9-8-2"
+         d="m -357.69596,719.67179 100.54166,0"
+         style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416689px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+         x="-282.44852"
+         y="726.6272"
+         id="text10210-5-6-8"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan10212-8-9-5"
+           x="-282.44852"
+           y="726.6272">Install</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path10214-7-2-6"
+         d="m -307.55742,719.5395 0,11.64166"
+         style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416689px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+         x="-332.57724"
+         y="726.6272"
+         id="text10216-5-3-7"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan10218-9-7-6"
+           x="-332.57724"
+           y="726.6272">Cancel</tspan></text>
+      <flowRoot
+         transform="translate(575.7333,779.46247)"
+         xml:space="preserve"
+         id="flowRoot10220-1-1-8"
+         style="font-style:normal;font-weight:bold;font-size:10.58333397px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+           id="flowRegion10222-7-2-4"><rect
+             id="rect10224-6-6-9"
+             width="88.635406"
+             height="56.885406"
+             x="-927.49915"
+             y="-77.650063"
+             style="text-align:center;text-anchor:middle;fill:#000000;stroke:none" /></flowRegion><flowPara
+           id="flowPara10226-7-0-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.63802075px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none">When you continue, this will change the contents of your disk. There is no going back.</flowPara></flowRoot>    </g>
+    <g
+       style="display:inline"
+       id="g21001-6-6"
+       transform="translate(-160.09369,2.9105035)">
+      <rect
+         ry="2.3812501"
+         rx="2.3812497"
+         y="684.21765"
+         x="-357.56363"
+         height="46.831249"
+         width="100.27708"
+         id="rect10202-2-3"
+         style="display:inline;fill:#eaeaea;fill-opacity:1;stroke:#919191;stroke-width:0.26458332;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text10204-4-4"
+         y="695.93597"
+         x="-307.36002"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.76249981px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="695.93597"
+           x="-307.36002"
+           sodipodi:role="line"
+           id="tspan10206-7-3">Continue Installation?</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path10208-5-7"
+         d="m -357.69596,719.67179 100.54166,0"
+         style="fill:none;fill-rule:evenodd;stroke:#919191;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416689px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
+         x="-282.44852"
+         y="726.6272"
+         id="text10210-3-2"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan10212-6-0"
+           x="-282.44852"
+           y="726.6272">Resize &amp; Install</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path10214-5-9"
+         d="m -307.55742,719.5395 0,11.64166"
+         style="fill:none;fill-rule:evenodd;stroke:#919191;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416689px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
+         x="-332.57724"
+         y="726.6272"
+         id="text10216-0-7"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan10218-3-3"
+           x="-332.57724"
+           y="726.6272">Cancel</tspan></text>
+      <flowRoot
+         transform="translate(575.7333,779.46247)"
+         xml:space="preserve"
+         id="flowRoot10220-2-0"
+         style="font-style:normal;font-weight:bold;font-size:10.58333397px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+           id="flowRegion10222-0-3"><rect
+             id="rect10224-4-0"
+             width="88.635406"
+             height="56.885406"
+             x="-927.49915"
+             y="-77.650063"
+             style="text-align:center;text-anchor:middle;fill:#2e3436" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.63802075px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#2e3436"
+           id="flowPara21182-4-7">Your existing Windows installation will be</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.63802075px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#2e3436"
+           id="flowPara22491">resized and Fedora will be installed.</flowPara></flowRoot>    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-290.78192"
+       y="655.5387"
+       id="text4936-4-9-4-5"
+       sodipodi:linespacing="120%"><tspan
+         sodipodi:role="line"
+         x="-290.78192"
+         y="655.5387"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:1px"
+         id="tspan8204-0">The installation prompt is context-aware.</tspan><tspan
+         sodipodi:role="line"
+         x="-290.78192"
+         y="659.9837"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:1px"
+         id="tspan24071" /><tspan
+         sodipodi:role="line"
+         x="-290.78192"
+         y="664.42871"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:1px"
+         id="tspan24073">It has a custom message based on whether</tspan><tspan
+         sodipodi:role="line"
+         x="-290.78192"
+         y="668.87372"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:1px"
+         id="tspan24075">the drive is being resized or erased.</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#888a85;stroke-width:0.26458329;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.79374996, 0.79374996;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend-3)"
+       d="m -634.15864,570.31458 0,271.9377"
+       id="path16736-7"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-729.31775"
+       y="695.94983"
+       id="text4936-4-9-4-5-0"
+       sodipodi:linespacing="120%"><tspan
+         sodipodi:role="line"
+         x="-729.31775"
+         y="695.94983"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:1px"
+         id="tspan24075-4">If Fedora will be installed into empty space without</tspan><tspan
+         sodipodi:role="line"
+         x="-729.31775"
+         y="700.39484"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:1px"
+         id="tspan24113">the need to resize or erase the disk, the installer</tspan><tspan
+         sodipodi:role="line"
+         x="-729.31775"
+         y="704.83984"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:1px"
+         id="tspan24125">will skip the confirmation step.</tspan></text>
   </g>
 </svg>
