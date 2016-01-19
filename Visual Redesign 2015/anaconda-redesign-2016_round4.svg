@@ -444,6 +444,17 @@
          id="rect6363-0-1"
          style="display:inline;opacity:1;fill:#006eb4;fill-opacity:1;stroke:none;stroke-width:0.26458341;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6361-6-74">
+      <rect
+         y="-73.284462"
+         x="-706.4364"
+         height="61.515816"
+         width="258.5712"
+         id="rect6363-0-7"
+         style="display:inline;opacity:1;fill:#006eb4;fill-opacity:1;stroke:none;stroke-width:0.26458341;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -453,8 +464,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="4249.7539"
-     inkscape:cy="4230.235"
+     inkscape:cx="2590.1385"
+     inkscape:cy="4127.7925"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
