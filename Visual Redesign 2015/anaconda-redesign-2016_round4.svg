@@ -379,8 +379,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="1324.2906"
-     inkscape:cy="2965.0425"
+     inkscape:cx="971.29058"
+     inkscape:cy="2766.0425"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -4539,7 +4539,8 @@
            style="text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-opacity:1">Begin Install</tspan></text>
     </g>
     <g
-       id="g8675">
+       id="g8675"
+       transform="translate(2.6458333,0)">
       <rect
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4a90d9;fill-opacity:1;fill-rule:nonzero;stroke:#1c5289;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:new"
          id="rect31336-6-6"
