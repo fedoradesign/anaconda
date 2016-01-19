@@ -310,6 +310,46 @@
        effect="spiro"
        id="path-effect14000-5-0"
        is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-7-2-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path14064-4-8-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#888a85;fill-opacity:1;fill-rule:evenodd;stroke:#888a85;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect14000-5-9-8"
+       is_visible="true" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient34397"
+       id="linearGradient34360"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(4.3572145,0,0,0.87764076,-2172.7255,-97.8853)"
+       x1="572.32098"
+       y1="1270.3207"
+       x2="572.32098"
+       y2="1260.0662" />
+    <linearGradient
+       id="linearGradient34397">
+      <stop
+         style="stop-color:#dddedd;stop-opacity:1"
+         offset="0"
+         id="stop34399" />
+      <stop
+         style="stop-color:#d1d3d1;stop-opacity:1;"
+         offset="1"
+         id="stop34401" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -318,9 +358,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="3360.2625"
-     inkscape:cy="3975.5066"
+     inkscape:zoom="1"
+     inkscape:cx="1578.5386"
+     inkscape:cy="1410.5083"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -553,15 +593,15 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none"
-       x="-61.362568"
+       x="-56.864651"
        y="11.72133"
        id="text6914-3-1"
        sodipodi:linespacing="125%"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell"
          sodipodi:role="line"
          id="tspan6916-9-9"
-         x="-61.362568"
-         y="11.72133">‹ Zurück </tspan></text>
+         x="-56.864651"
+         y="11.72133">Zurück </tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7631-8-7"
@@ -1204,7 +1244,7 @@
        height="203.2"
        width="270.93329"
        id="rect14031-5-4-6"
-       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458341;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#eaeaea;fill-opacity:1;stroke:none;stroke-width:0.26458341;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        transform="scale(-1,1)"
        inkscape:export-filename="./anaconda-redesign-2015-garrett-disk-resize.png"
        inkscape:export-xdpi="90"
@@ -1577,70 +1617,19 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:0.26458332px" /></flowRegion><flowPara
          style="font-size:3.70416665px;stroke-width:0.26458332px"
          id="flowPara12489-93-0">Methods of freeing up space are in the order of simplest to hardest, from a use-centric point of view (not implementation-wise), with preserving data prioritized.</flowPara></flowRoot>    <rect
-       y="690.17096"
-       x="-653.25616"
+       y="690.17084"
+       x="-653.50012"
        height="203.2"
        width="270.93329"
        id="rect14031-5-4-3"
-       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458338;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="display:inline;opacity:1;fill:#eaeaea;fill-opacity:1;stroke:none;stroke-width:0.26458338;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
        style="display:inline;opacity:1;fill:#006eb4;fill-opacity:1;stroke:none;stroke-width:0.26458338;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect12889-5-2-7-7"
        width="270.93335"
        height="16.933332"
-       x="-653.25629"
-       y="690.17096" />
-    <g
-       id="g11366-0-2"
-       transform="translate(-35.408092,519.11251)"
-       style="display:inline;fill:#555753;fill-opacity:1">
-      <text
-         sodipodi:linespacing="521%"
-         id="text19328-2-3-5"
-         y="212.21249"
-         x="-482.38751"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:521.00000381%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29166651px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#555753;fill-opacity:1;stroke-width:1px"
-           y="212.21249"
-           x="-482.38751"
-           id="tspan19330-3-2-5"
-           sodipodi:role="line">Now installing. Please wait…</tspan></text>
-    </g>
-    <rect
-       style="display:inline;opacity:1;fill:#d3d7cf;fill-opacity:1;stroke:none;stroke-width:0.26458338;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect12889-5-2-1-4-3-1"
-       width="252.41251"
-       height="0.26458952"
-       x="-643.99579"
-       y="-770.8689"
-       transform="scale(1,-1)" />
-    <g
-       transform="translate(3.0027508e-5,326.76042)"
-       style="display:inline"
-       id="g4612-7">
-      <rect
-         ry="0.79374993"
-         rx="0.79374999"
-         y="367.37918"
-         x="-408.25211"
-         height="9.260417"
-         width="19.579166"
-         id="rect19534-6-4-8-2"
-         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:0.26829272;stroke:none;stroke-width:0.17704763;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72682932" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.78271914px;line-height:521.00000381%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="-398.61856"
-         y="373.30069"
-         id="text19530-8-5-1-3"
-         sodipodi:linespacing="521%"><tspan
-           sodipodi:role="line"
-           id="tspan19532-7-4-2-8"
-           x="-398.61856"
-           y="373.30069"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.17471838px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:1px">Help</tspan></text>
-    </g>
+       x="-653.50012"
+       y="690.17084" />
     <image
        width="146.84375"
        height="140.09059"
@@ -1651,7 +1640,7 @@
        x="-706.41675"
        y="-73.151985"
        clip-path="url(#clipPath6378-2)"
-       transform="matrix(1.1351351,0,0,1,148.64289,762.52932)" />
+       transform="matrix(1.1351351,0,0,1,148.37832,762.52932)" />
     <text
        sodipodi:linespacing="521%"
        id="text9278-5-9-5"
@@ -1677,47 +1666,13 @@
        x="-653.25629"
        y="-707.10431"
        transform="scale(1,-1)" />
-    <g
-       id="g14387"
-       transform="translate(1.7198025,-52.782051)">
-      <rect
-         style="display:inline;opacity:1;fill:#d3d7cf;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect4538-1"
-         width="119.32708"
-         height="3.1749997"
-         x="-579.28448"
-         y="795.07581"
-         ry="0.78705168"
-         rx="0.78705168" />
-      <rect
-         style="display:inline;opacity:1;fill:#0083d6;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect4538-1-7"
-         width="38.364582"
-         height="3.1749997"
-         x="-579.28448"
-         y="795.07581"
-         ry="0.78705168"
-         rx="0.78705162" />
-    </g>
-    <text
-       sodipodi:linespacing="120%"
-       id="text19410-6-1-0-76-5-1"
-       y="753.90656"
-       x="-517.90814"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle;fill:#555753;fill-opacity:1;stroke-width:1px"
-         y="753.90656"
-         x="-517.90814"
-         sodipodi:role="line"
-         id="tspan13703-7-0">7 minutes left</tspan></text>
     <rect
        y="912.42023"
        x="-802.48114"
        height="203.2"
        width="270.93329"
        id="rect14031-5-4-3-1"
-       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458338;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="display:inline;opacity:1;fill:#eaeaea;fill-opacity:1;stroke:none;stroke-width:0.26458338;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
        style="display:inline;opacity:1;fill:#006eb4;fill-opacity:1;stroke:none;stroke-width:0.26458338;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect12889-5-2-7-7-2"
@@ -1725,30 +1680,13 @@
        height="16.933332"
        x="-802.48126"
        y="912.42023" />
-    <g
-       id="g11366-0-2-8"
-       transform="translate(-197.56113,741.36239)"
-       style="display:inline;fill:#555753;fill-opacity:1">
-      <text
-         sodipodi:linespacing="521%"
-         id="text19328-2-3-5-4"
-         y="212.21249"
-         x="-469.47702"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:521.00000381%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29166651px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#555753;fill-opacity:1;stroke-width:1px"
-           y="212.21249"
-           x="-469.47702"
-           id="tspan19330-3-2-5-0"
-           sodipodi:role="line">Fedora has been successfully installed!</tspan></text>
-    </g>
     <rect
        style="display:inline;opacity:1;fill:#d3d7cf;fill-opacity:1;stroke:none;stroke-width:0.26458338;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect12889-5-2-1-4-3-1-9"
        width="252.41251"
        height="0.26458952"
        x="-793.22076"
-       y="-974.59735"
+       y="-972.7453"
        transform="scale(1,-1)" />
     <image
        width="146.84375"
@@ -1864,9 +1802,20 @@
            height="87"
            x="107"
            y="3186" /></flowRegion><flowPara
-         id="flowPara14554" /></flowRoot>    <path
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#aec5d4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m -352.29271,247.98554 0,17.72709 104.775,0 0,-17.72709 z"
+         id="flowPara14554" /></flowRoot>    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect7679-6-9"
+       width="107.68541"
+       height="17.727083"
+       x="353.88022"
+       y="247.98555"
+       transform="scale(-1,1)"
+       inkscape:export-filename="./anaconda-redesign-2015-garrett-disk-resize.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#d9e8f7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m -358.48969,248.05207 0,17.72709 110.86042,0 0,-17.72709 z"
        id="rect7679"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc"
@@ -1874,18 +1823,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#bdbcbc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect7679-6-9"
-       width="109.27291"
-       height="17.727083"
-       x="352.29272"
-       y="247.98555"
-       transform="scale(-1,1)"
-       inkscape:export-filename="./anaconda-redesign-2015-garrett-disk-resize.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.07999998;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#pattern9761);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.00009584;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.04;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#pattern9761);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.00009584;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect7679-6-9-7"
        width="110.83636"
        height="34.832508"
@@ -1893,45 +1831,6 @@
        y="338.15265"
        transform="matrix(-1,0,-0.70710678,0.70710678,0,5.2916666)"
        clip-path="url(#clipPath9778)"
-       inkscape:export-filename="./anaconda-redesign-2015-garrett-disk-resize.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <text
-       xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:521.00000381%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       x="-406.85071"
-       y="258.30429"
-       id="text7696-1"
-       sodipodi:linespacing="521%"
-       inkscape:export-filename="./anaconda-redesign-2015-garrett-disk-resize.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         x="-406.85071"
-         y="258.30429"
-         id="tspan7700-4">Windows 10</tspan></text>
-    <text
-       xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:521.00000381%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       x="-299.42987"
-       y="258.30429"
-       id="text7696-1-8"
-       sodipodi:linespacing="521%"
-       inkscape:export-filename="./anaconda-redesign-2015-garrett-disk-resize.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         x="-299.42987"
-         y="258.30429"
-         id="tspan7700-4-5">Fedora</tspan></text>
-    <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e2e3e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect7679-6-9-1"
-       width="2.1166642"
-       height="22.489584"
-       x="352.29272"
-       y="245.60429"
-       transform="scale(-1,1)"
        inkscape:export-filename="./anaconda-redesign-2015-garrett-disk-resize.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1948,49 +1847,7 @@
          y="252.81459" /></text>
     <text
        xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:521.00000381%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       x="-406.85071"
-       y="274.70847"
-       id="text7696-1-9"
-       sodipodi:linespacing="521%"
-       inkscape:export-filename="./anaconda-redesign-2015-garrett-disk-resize.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         x="-406.85071"
-         y="274.70847"
-         id="tspan7700-4-1">36 GB total, 12 GB free</tspan></text>
-    <text
-       xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:521.00000381%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       x="-299.46338"
-       y="274.70844"
-       id="text7696-1-9-9"
-       sodipodi:linespacing="521%"
-       inkscape:export-filename="./anaconda-redesign-2015-garrett-disk-resize.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         x="-299.46338"
-         y="274.70844"
-         id="tspan7700-4-1-1">28 GB</tspan></text>
-    <text
-       xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:521.00000381%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       x="-474.2612"
-       y="274.70844"
-       id="text7696-1-9-92"
-       sodipodi:linespacing="521%"
-       inkscape:export-filename="./anaconda-redesign-2015-garrett-disk-resize.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         x="-474.2612"
-         y="274.70844"
-         id="tspan7700-4-1-13">5 GB</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:521.00000381%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:521.00000381%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="-416.79071"
        y="187.13176"
        id="text19328-2-3-9"
@@ -1999,78 +1856,27 @@
          id="tspan19330-3-2-7"
          x="-416.79071"
          y="187.13176"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29166651px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#555753;fill-opacity:1;stroke-width:1px">There is not enough free space to install Fedora!</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29166651px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#2e3436;fill-opacity:1;stroke-width:1px;">There is not enough free space to install Fedora!</tspan></text>
     <text
        sodipodi:linespacing="120%"
        id="text19410-6-1-0-76"
        y="193.3091"
        x="-417.15408"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#888a85;fill-opacity:1;stroke-width:1px"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke-width:1px;"
          y="193.3091"
          x="-417.15408"
          sodipodi:role="line"
          id="tspan13703">Don’t fret. You can still install Fedora once you make available space.</tspan></text>
-    <g
-       style="display:inline;fill:#f57900;fill-opacity:1;stroke-width:0.33139142"
-       transform="matrix(0.79840127,0,0,0.79840127,-434.74009,182.42829)"
-       id="g13511-6"
-       inkscape:export-filename="./anaconda-redesign-2015-garrett-disk-resize.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <g
-         id="layer9-67-4"
-         inkscape:label="status"
-         style="display:inline;fill:#f57900;fill-opacity:1;stroke-width:0.33139142"
-         transform="translate(-321,-257)">
-        <path
-           inkscape:connector-curvature="0"
-           d="m 328.90645,257.09375 c -0.5255,-0.0286 -1.03823,0.28305 -1.4375,0.96875 l -6.25,11.59375 C 320.68548,270.61964 321.26717,272 322.3127,272 l 13.15625,0 c 0.98172,0 1.90311,-1.15939 1.21875,-2.34375 L 330.3752,258.125 c -0.39872,-0.64617 -0.94325,-1.00262 -1.46875,-1.03125 z m 0.0625,3.9375 c 0.54448,-0.0172 1.04849,0.48677 1.03125,1.03125 l 0,3.9375 c 0.007,0.52831 -0.47163,1 -1,1 -0.52836,0 -1.00747,-0.47169 -1,-1 l 0,-3.9375 c -0.008,-0.4666 0.3541,-0.91253 0.8125,-1 0.0511,-0.0145 0.10345,-0.0249 0.15625,-0.0312 z M 329.0002,268 c 0.55228,0 1,0.44772 1,1 0,0.55228 -0.44772,1 -1,1 -0.55228,0 -1,-0.44772 -1,-1 0,-0.55228 0.44772,-1 1,-1 z"
-           id="path18112-3"
-           style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#f57900;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5902909;marker:none;enable-background:new" />
-      </g>
-      <g
-         id="layer10-56-0"
-         inkscape:label="devices"
-         style="display:inline;fill:#f57900;fill-opacity:1;stroke-width:0.33139142"
-         transform="translate(-321,-257)" />
-      <g
-         style="fill:#f57900;fill-opacity:1;stroke-width:0.33139142"
-         id="layer11-6-5"
-         inkscape:label="apps"
-         transform="translate(-321,-257)" />
-      <g
-         id="layer13-6-6"
-         inkscape:label="places"
-         style="display:inline;fill:#f57900;fill-opacity:1;stroke-width:0.33139142"
-         transform="translate(-321,-257)" />
-      <g
-         style="fill:#f57900;fill-opacity:1;stroke-width:0.33139142"
-         id="layer14-0-8"
-         inkscape:label="mimetypes"
-         transform="translate(-321,-257)" />
-      <g
-         id="layer15-58-3"
-         inkscape:label="emblems"
-         style="display:inline;fill:#f57900;fill-opacity:1;stroke-width:0.33139142"
-         transform="translate(-321,-257)" />
-      <g
-         id="g71291-9-0"
-         inkscape:label="emotes"
-         style="display:inline;fill:#f57900;fill-opacity:1;stroke-width:0.33139142"
-         transform="translate(-321,-257)" />
-      <g
-         id="g4953-41-3"
-         inkscape:label="categories"
-         style="display:inline;fill:#f57900;fill-opacity:1;stroke-width:0.33139142"
-         transform="translate(-321,-257)" />
-      <g
-         id="layer12-84-2"
-         inkscape:label="actions"
-         style="display:inline;fill:#f57900;fill-opacity:1;stroke-width:0.33139142"
-         transform="translate(-321,-257)" />
-    </g>
+    <path
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#f57900;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5902909;marker:none;enable-background:new"
+       d="m -428.42757,182.50314 c -0.41956,-0.0228 -0.82893,0.22599 -1.1477,0.77345 l -4.99001,9.25647 c -0.42593,0.76917 0.0385,1.87125 0.87325,1.87125 l 10.50397,0 c 0.7838,0 1.51944,-0.92566 0.97305,-1.87125 l -5.03991,-9.20657 c -0.31834,-0.5159 -0.75309,-0.80049 -1.17265,-0.82335 z"
+       id="path12904" />
+    <path
+       id="path18112-3"
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5902909;marker:none;enable-background:new"
+       d="m -428.35267,191.2107 c 0.44094,0 0.7984,0.35746 0.7984,0.79841 0,0.44094 -0.35746,0.7984 -0.7984,0.7984 -0.44094,0 -0.7984,-0.35746 -0.7984,-0.7984 0,-0.44095 0.35746,-0.79841 0.7984,-0.79841 z m -0.025,-5.56385 c 0.43471,-0.0137 0.83711,0.38863 0.82335,0.82335 l 0,3.1437 c 0.006,0.42181 -0.37655,0.7984 -0.7984,0.7984 -0.42185,0 -0.80437,-0.37659 -0.7984,-0.7984 l 0,-3.1437 c -0.006,-0.37254 0.28271,-0.72857 0.6487,-0.7984 0.0408,-0.0116 0.0826,-0.0199 0.12475,-0.0249 z" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.25;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#4f4c4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:18.89800072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect9745"
@@ -2089,26 +1895,6 @@
        inkscape:export-filename="./anaconda-redesign-2015-garrett-disk-resize.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
-    <text
-       xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:521.00000381%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#bdbcbc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       x="-474.10278"
-       y="256.15546"
-       id="text7696"
-       sodipodi:linespacing="521%"
-       inkscape:export-filename="./anaconda-redesign-2015-garrett-disk-resize.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         id="tspan7698"
-         x="-474.10278"
-         y="256.15546"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:100%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#bdbcbc;fill-opacity:1">Windows</tspan><tspan
-         sodipodi:role="line"
-         x="-474.10278"
-         y="259.85962"
-         id="tspan7700"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:100%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#bdbcbc;fill-opacity:1">Recovery</tspan></text>
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.07999998;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#pattern9761-3-3);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.00009584;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect7679-6-9-7-7-1"
@@ -2211,7 +1997,31 @@
        height="203.2"
        width="270.93329"
        id="rect14031-5-4-3-1-0"
-       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458338;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="display:inline;opacity:1;fill:#eaeaea;fill-opacity:1;stroke:none;stroke-width:0.26458338;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       style="display:inline"
+       id="g14820-6"
+       transform="translate(-52.869469,202.85619)">
+      <g
+         id="g14808-2"
+         style="">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.63802075px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;enable-background:new"
+           x="-371.25095"
+           y="750.57086"
+           id="text58286-1-2-7-7"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             sodipodi:role="line"
+             id="tspan58288-2-7-9-5"
+             x="-371.25095"
+             y="750.57086"
+             style="font-weight:normal;font-size:5.29166651px;text-align:start;text-anchor:start;fill:#2e3436">Fedora has been successfully installed!</tspan></text>
+      </g>
+    </g>
     <rect
        style="display:inline;opacity:1;fill:#006eb4;fill-opacity:1;stroke:none;stroke-width:0.26458338;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect12889-5-2-7-7-2-7"
@@ -2219,30 +2029,13 @@
        height="16.933332"
        x="-514.35004"
        y="912.42023" />
-    <g
-       id="g11366-0-2-8-3"
-       transform="translate(90.570098,741.36239)"
-       style="display:inline;fill:#555753;fill-opacity:1">
-      <text
-         sodipodi:linespacing="521%"
-         id="text19328-2-3-5-4-7"
-         y="212.21249"
-         x="-469.47702"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:521.00000381%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29166651px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#555753;fill-opacity:1;stroke-width:1px"
-           y="212.21249"
-           x="-469.47702"
-           id="tspan19330-3-2-5-0-7"
-           sodipodi:role="line">Fedora has been successfully installed!</tspan></text>
-    </g>
     <rect
        style="display:inline;opacity:1;fill:#d3d7cf;fill-opacity:1;stroke:none;stroke-width:0.26458338;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect12889-5-2-1-4-3-1-9-1"
        width="252.41251"
        height="0.26458952"
        x="-505.08954"
-       y="-974.59735"
+       y="-972.7453"
        transform="scale(1,-1)" />
     <image
        width="146.84375"
@@ -2521,9 +2314,9 @@
        id="text8508-3-4"
        y="228.98241"
        x="-298.2684"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;opacity:1;fill:#888a85;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#888a85;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1;"
          y="228.98241"
          x="-298.2684"
          id="tspan8510-8-7"
@@ -3478,5 +3271,402 @@
          style="font-size:3.70416665px;stroke-width:0.26458332px"
          id="flowPara12830" /><flowPara
          style="font-size:3.70416665px;stroke-width:0.26458332px"
-         id="flowPara12832">At the top of the second level of the chooser is a “back” item, translated to the selected language. Choosing it would slide back to the previous list, with this most recent chosen language in the quick area in the first level of the list. In this example, it would add “Deutsch, Belgein” at the top of the list, above “English, United States”. Of course, this wouldn't happen in normal usage — once the correct language is selected, people would generally choose the continue button (displayed in the selected language, naturally).</flowPara></flowRoot>  </g>
+         id="flowPara12832">At the top of the second level of the chooser is a “back” item, translated to the selected language. Choosing it would slide back to the previous list, with this most recent chosen language in the quick area in the first level of the list. In this example, it would add “Deutsch, Belgein” at the top of the list, above “English, United States”. Of course, this wouldn't happen in normal usage — once the correct language is selected, people would generally choose the continue button (displayed in the selected language, naturally).</flowPara></flowRoot>    <g
+       style="display:inline"
+       transform="matrix(0.26458331,0,0,0.26458333,-89.143916,-189.30591)"
+       id="g11736"
+       inkscape:label="go-next">
+      <rect
+         width="16"
+         height="16"
+         x="-116.0002"
+         y="747"
+         id="rect11738"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new"
+         transform="scale(-1,1)" />
+      <path
+         sodipodi:nodetypes="ccscsccsscscc"
+         inkscape:connector-curvature="0"
+         id="path11740"
+         d="m 104.5627,755 5.71875,5.71875 C 110.47732,760.91462 110.74458,761 111.0002,761 l 1,0 0,-1 c 0,-0.25562 -0.0854,-0.52288 -0.28125,-0.71875 L 107.4377,755 l 4.28125,-4.28125 c 0.19587,-0.19587 0.28125,-0.46313 0.28125,-0.71875 l 0,-1 -1,0 c -0.25562,0 -0.52288,0.0854 -0.71875,0.28125 z"
+         style="display:inline;fill:#bebebe;fill-opacity:1;stroke:none" />
+    </g>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/hbons/layer4.png"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#888a85;stroke-width:0.26458329;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect3865"
+       width="129.64583"
+       height="0.79374927"
+       x="-377.14282"
+       y="-272.79062"
+       rx="0.37766331"
+       ry="0.43528944"
+       transform="scale(1,-1)" />
+    <circle
+       r="2.1166666"
+       cy="272.26147"
+       cx="-358.62201"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:#888a85;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="path3867" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3869"
+       d="m -377.1428,276.88992 c 0,-1.2158 0,-1.35974 0,-1.35974"
+       style="display:inline;fill:none;stroke:#babdb6;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="display:inline;fill:none;stroke:#babdb6;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -340.1014,276.88992 c 0,-1.2158 0,-1.35974 0,-1.35974"
+       id="path3871"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3873"
+       d="m -349.36175,276.88992 c 0,-1.2158 0,-1.35974 0,-1.35974"
+       style="display:inline;fill:none;stroke:#babdb6;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="display:inline;fill:none;stroke:#babdb6;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -358.6221,276.88992 c 0,-1.2158 0,-1.35974 0,-1.35974"
+       id="path3875"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3877"
+       d="m -367.88245,276.88992 c 0,-1.2158 0,-1.35974 0,-1.35974"
+       style="display:inline;fill:none;stroke:#babdb6;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:521.00000381%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="-303.1062"
+       y="255.53523"
+       id="text7696-1-8"
+       sodipodi:linespacing="521%"
+       inkscape:export-filename="./anaconda-redesign-2015-garrett-disk-resize.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="-303.1062"
+         y="255.53523"
+         id="tspan7700-4-5">Fedora</tspan></text>
+    <g
+       id="g13643"
+       transform="translate(-14.528502,-0.62022192)">
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="./anaconda-redesign-2015-garrett-disk-resize.png"
+         sodipodi:linespacing="521%"
+         id="text7696-1"
+         y="256.20731"
+         x="-404.54529"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:521.00000381%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         xml:space="preserve"><tspan
+           id="tspan7700-4"
+           y="256.20731"
+           x="-404.54529"
+           sodipodi:role="line">Windows 10</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="./anaconda-redesign-2015-garrett-disk-resize.png"
+         sodipodi:linespacing="521%"
+         id="text7696-1-9"
+         y="260.9501"
+         x="-404.73404"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:521.00000381%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         xml:space="preserve"><tspan
+           id="tspan7700-4-1"
+           y="260.9501"
+           x="-404.73404"
+           sodipodi:role="line">24 GB used, 36 GB total</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:521.00000381%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="-303.14847"
+       y="260.3299"
+       id="text7696-1-9-9"
+       sodipodi:linespacing="521%"
+       inkscape:export-filename="./anaconda-redesign-2015-garrett-disk-resize.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="-303.14847"
+         y="260.3299"
+         id="tspan7700-4-1-1">26 GB</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:521.00000381%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#bdbcbc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="-474.10382"
+       y="255.53523"
+       id="text7696"
+       sodipodi:linespacing="521%"
+       inkscape:export-filename="./anaconda-redesign-2015-garrett-disk-resize.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="-474.10382"
+         y="255.53523"
+         id="tspan7700"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:100%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#bdbcbc;fill-opacity:1">Recovery</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:521.00000381%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="-474.08817"
+       y="260.3299"
+       id="text7696-1-9-92"
+       sodipodi:linespacing="521%"
+       inkscape:export-filename="./anaconda-redesign-2015-garrett-disk-resize.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="-474.08817"
+         y="260.3299"
+         id="tspan7700-4-1-13">5 GB</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#888a85;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect7679-6-9-4"
+       width="238.91875"
+       height="17.727083"
+       x="247.49699"
+       y="247.91977"
+       transform="scale(-1,1)"
+       inkscape:export-filename="./anaconda-redesign-2015-garrett-disk-resize.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3869-2"
+       d="m -321.58069,276.88992 c 0,-1.2158 0,-1.35974 0,-1.35974"
+       style="display:inline;fill:none;stroke:#babdb6;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="display:inline;fill:none;stroke:#babdb6;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -266.01858,276.88992 c 0,-1.2158 0,-1.35974 0,-1.35974"
+       id="path3871-1"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3873-2"
+       d="m -275.27893,276.88992 c 0,-1.2158 0,-1.35974 0,-1.35974"
+       style="display:inline;fill:none;stroke:#babdb6;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="display:inline;fill:none;stroke:#babdb6;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -284.53929,276.88992 c 0,-1.2158 0,-1.35974 0,-1.35974"
+       id="path3875-1"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3877-3"
+       d="m -303.05999,276.88992 c 0,-1.2158 0,-1.35974 0,-1.35974"
+       style="display:inline;fill:none;stroke:#babdb6;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3869-2-7"
+       d="m -256.75823,276.88992 c 0,-1.2158 0,-1.35974 0,-1.35974"
+       style="display:inline;fill:none;stroke:#babdb6;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3877-3-5"
+       d="m -247.49788,276.88992 c 0,-1.2158 0,-1.35974 0,-1.35974"
+       style="display:inline;fill:none;stroke:#babdb6;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="display:inline;fill:none;stroke:#babdb6;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -330.84105,276.88992 c 0,-1.2158 0,-1.35974 0,-1.35974"
+       id="path3871-9"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3869-2-1"
+       d="m -312.32034,276.88992 c 0,-1.2158 0,-1.35974 0,-1.35974"
+       style="display:inline;fill:none;stroke:#babdb6;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3877-3-1"
+       d="m -293.79964,276.88992 c 0,-1.2158 0,-1.35974 0,-1.35974"
+       style="display:inline;fill:none;stroke:#babdb6;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.25;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m -358.48969,248.05209 0,17.4625 0.26458,0 0,-17.4625 z"
+       id="rect7679-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="./anaconda-redesign-2015-garrett-disk-resize.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.15;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m -376.74592,248.05208 0,17.4625 0.26458,0 0,-17.4625 z"
+       id="rect7679-5-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="./anaconda-redesign-2015-garrett-disk-resize.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#888a85;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.79374997, 0.79374997;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lstart-7-2-5)"
+       inkscape:path-effect="#path-effect14000-5-9-8"
+       inkscape:original-d="m -456.27382,360.56217 c 0,0 0.67597,-2.33204 1.2478,-3.39266 0.49443,-0.91706 1.0689,-2.01148 1.85781,-2.51349 0.22428,-0.12582 0.80354,-1.16937 1.32077,-1.64627 0.31156,-0.28726 1.05285,-0.71263 1.05285,-0.71263 l -0.0188,0.0186"
+       id="path13998-0-2-7"
+       d="m -456.27382,360.56217 c 0.18435,-1.19892 0.61139,-2.36001 1.2478,-3.39266 0.54687,-0.88735 1.24108,-1.67319 1.85781,-2.51349 0.41701,-0.56818 0.80371,-1.16734 1.32077,-1.64627 0.31211,-0.28909 0.66848,-0.5303 1.05285,-0.71263 l -0.0188,0.0186"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cacacc" />
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,-847.17513,2098.4522)"
+       id="g31334-74-9"
+       style="display:inline;opacity:1">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4a90d9;fill-opacity:1;fill-rule:nonzero;stroke:#1c5289;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:new"
+         id="rect31336-6-1"
+         width="79.000008"
+         height="33.000004"
+         x="1659.5001"
+         y="-5307.1382"
+         rx="3.8039253"
+         ry="3.8039248" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text31338-5-3"
+         y="-5285.8501"
+         x="1698.6869"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;enable-background:new"
+         xml:space="preserve"><tspan
+           y="-5285.8501"
+           x="1698.6869"
+           id="tspan31340-1-3"
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">Help</tspan></text>
+    </g>
+    <g
+       id="g14820"
+       transform="translate(-196.07692,-19.393082)">
+      <g
+         id="g14808">
+        <g
+           id="g34346"
+           transform="matrix(0.26458333,0,0,0.26458333,-398.43466,474.3011)">
+          <rect
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+             id="rect34348"
+             width="342.875"
+             height="4"
+             x="118.5"
+             y="1040.5"
+             rx="2"
+             ry="2"
+             inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <rect
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient34360);fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new"
+             id="rect34350"
+             width="336"
+             height="3"
+             x="125.50006"
+             y="1040.5"
+             rx="1.5"
+             ry="1.5"
+             inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <g
+             transform="matrix(1,0,0,0.17391304,-486.71948,968.45809)"
+             id="g34352" />
+          <text
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+             sodipodi:linespacing="125%"
+             id="text58286-1"
+             y="1065.835"
+             x="117.2312"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:0.55;fill:#2e3436;fill-opacity:1;stroke:none;enable-background:new"
+             xml:space="preserve"><tspan
+               y="1065.835"
+               x="117.2312"
+               id="tspan58288-2"
+               sodipodi:role="line">7 minutes left</tspan></text>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new"
+           d="m -364.83258,749.73235 c -0.14658,0 -0.26458,0.118 -0.26458,0.26458 0,0.0493 0.017,0.0929 0.0403,0.13229 0.046,-0.0778 0.127,-0.13229 0.22427,-0.13229 l 88.10625,0 c 0.0973,0 0.17831,0.0545 0.22428,0.13229 0.0233,-0.0394 0.0403,-0.083 0.0403,-0.13229 0,-0.14658 -0.11801,-0.26458 -0.26459,-0.26458 l -88.10625,0 z"
+           id="rect34350-8" />
+        <path
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:#3465a4;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:new"
+           d="m -366.68466,749.60006 c -0.21987,0 -0.39688,0.177 -0.39688,0.39687 0,0.21987 0.17701,0.39688 0.39688,0.39688 l 33.615,0 c 0,0 0.11937,-0.0563 0.11937,-0.12609 l 0,-0.54157 c 0,-0.0698 -0.11937,-0.12609 -0.11937,-0.12609 z"
+           id="rect34378"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="csccsscc" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.63802075px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;enable-background:new"
+           x="-367.48148"
+           y="744.4585"
+           id="text58286-1-2-7"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             sodipodi:role="line"
+             id="tspan58288-2-7-9"
+             x="-367.48148"
+             y="744.4585"
+             style="font-size:4.63020802px;text-align:start;text-anchor:start;fill:#2e3436">Now installing. Please wait…</tspan></text>
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       id="g14820-6-7"
+       transform="translate(-346.65535,202.85619)">
+      <g
+         id="g14808-2-6">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.63802075px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;enable-background:new"
+           x="-365.59628"
+           y="750.57086"
+           id="text58286-1-2-7-7-0"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             sodipodi:role="line"
+             id="tspan58288-2-7-9-5-7"
+             x="-365.59628"
+             y="750.57086"
+             style="font-weight:normal;font-size:5.29166651px;text-align:start;text-anchor:start;fill:#2e3436">Fedora has been successfully installed!</tspan></text>
+      </g>
+    </g>
+    <rect
+       y="751.28955"
+       x="-653.50012"
+       height="141.28751"
+       width="270.93329"
+       id="rect14031-5-4-3-0"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458338;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="-751.28955"
+       x="-653.50012"
+       height="0.26458332"
+       width="270.93329"
+       id="rect14031-5-4-3-0-5"
+       style="display:inline;opacity:0.21000001;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458338;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="scale(1,-1)" />
+  </g>
 </svg>
