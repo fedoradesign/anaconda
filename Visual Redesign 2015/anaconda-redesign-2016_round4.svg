@@ -379,8 +379,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="1007.5991"
-     inkscape:cy="2468.8604"
+     inkscape:cx="969.59911"
+     inkscape:cy="2738.8604"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -4139,17 +4139,17 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none"
-       x="-572.06091"
-       y="429.2998"
+       x="-633.97339"
+       y="437.76648"
        id="text16212"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan16214"
-         x="-572.06091"
-         y="429.2998">Network</tspan></text>
+         x="-633.97339"
+         y="437.76648">Network</tspan></text>
     <g
        id="g8766"
-       transform="translate(-286.82898,-2.9104265)">
+       transform="translate(-348.74148,5.55624)">
       <rect
          y="437.09686"
          x="-284.80328"
@@ -4184,29 +4184,29 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none"
-       x="-572.06091"
-       y="459.46231"
+       x="-633.97339"
+       y="467.92899"
        id="text16212-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan16214-3"
-         x="-572.06091"
-         y="459.46231">Region</tspan></text>
+         x="-633.97339"
+         y="467.92899">Region</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none"
-       x="-572.06091"
-       y="522.16858"
+       x="-510.14841"
+       y="437.81833"
        id="text16212-7-5"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan16214-3-8"
-         x="-572.06091"
-         y="522.16858">Software</tspan></text>
+         x="-510.14841"
+         y="437.81833">Software</tspan></text>
     <g
        style="display:inline"
        id="g8766-4-3-3"
-       transform="translate(-286.82898,89.164455)">
+       transform="translate(-224.91648,5.55624)">
       <rect
          y="437.09686"
          x="-284.80328"
@@ -4241,7 +4241,7 @@
     <g
        style="display:inline"
        id="g8766-4-0"
-       transform="translate(-286.82898,26.458343)">
+       transform="translate(-348.74148,34.925009)">
       <rect
          y="437.09686"
          x="-284.80328"
@@ -4276,7 +4276,7 @@
     <g
        style="display:inline"
        id="g8766-4-3-9"
-       transform="translate(-286.82898,40.481233)">
+       transform="translate(-348.74148,48.947899)">
       <rect
          y="437.09686"
          x="-284.80328"
@@ -4311,7 +4311,7 @@
     <g
        style="display:inline"
        id="g8766-4-3-3-0"
-       transform="translate(-286.82898,58.208313)">
+       transform="translate(-348.74148,66.674979)">
       <rect
          y="437.09686"
          x="-284.80328"
