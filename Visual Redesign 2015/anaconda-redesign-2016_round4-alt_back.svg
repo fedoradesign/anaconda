@@ -329,8 +329,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="1017.7169"
-     inkscape:cy="677.65183"
+     inkscape:cx="1860.5094"
+     inkscape:cy="3272.8771"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1247,7 +1247,7 @@
        xml:space="preserve"
        id="flowRoot12427"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#555753;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-385.50836,-28.574999)"><flowRegion
+       transform="translate(-385.50836,-17.991667)"><flowRegion
          id="flowRegion12429"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:0.26458332px"><rect
            id="rect12431"
@@ -1833,27 +1833,27 @@
        width="147.90208"
        height="60.060417"
        x="-591.74054"
-       y="592.8042" />
+       y="598.09583" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:9.16486359px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-517.63068"
-       y="613.90674"
+       y="619.19836"
        id="text13950"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan13952"
          x="-517.63068"
-         y="613.90674"
+         y="619.19836"
          style="stroke-width:0.26458335px">Confirmation / warning</tspan><tspan
          sodipodi:role="line"
          x="-516.17181"
-         y="625.36279"
+         y="630.65442"
          style="stroke-width:0.26458335px"
          id="tspan13954">about modifying stuff </tspan><tspan
          sodipodi:role="line"
          x="-517.63068"
-         y="636.81891"
+         y="642.11053"
          style="stroke-width:0.26458335px"
          id="tspan13960">goes here!</tspan></text>
     <path
@@ -1975,7 +1975,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#888a85;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.79374999, 0.79374999;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend-8)"
-       d="m -517.78952,656.56876 0,18.52083"
+       d="m -517.78952,665.56457 0,18.52083"
        id="path16736-2"
        inkscape:connector-curvature="0" />
     <flowRoot
@@ -2194,7 +2194,7 @@
          id="g4607" />
     </g>
     <rect
-       y="679.58771"
+       y="690.17096"
        x="-653.25616"
        height="203.2"
        width="270.93329"
@@ -2206,10 +2206,10 @@
        width="270.93335"
        height="16.933332"
        x="-653.25629"
-       y="679.58771" />
+       y="690.17096" />
     <g
        id="g11366-0-2"
-       transform="translate(-35.408092,508.52919)"
+       transform="translate(-35.408092,519.11251)"
        style="display:inline;fill:#555753;fill-opacity:1">
       <text
          sodipodi:linespacing="521%"
@@ -2230,10 +2230,10 @@
        width="252.41251"
        height="0.26458952"
        x="-643.99579"
-       y="-741.76483"
+       y="-752.34808"
        transform="scale(1,-1)" />
     <g
-       transform="translate(3.0027508e-5,316.1771)"
+       transform="translate(3.0027508e-5,326.76042)"
        style="display:inline"
        id="g4612-7">
       <rect
@@ -2268,23 +2268,23 @@
        x="-706.41675"
        y="-73.151985"
        clip-path="url(#clipPath6378-2)"
-       transform="matrix(1.1351351,0,0,1,148.64289,751.946)" />
+       transform="matrix(1.1351351,0,0,1,148.64289,762.52932)" />
     <text
        sodipodi:linespacing="521%"
        id="text9278-5-9-5"
-       y="690.0415"
+       y="700.62476"
        x="-637.33899"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.79779243px;line-height:521.00000381%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.75979996px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff;fill-opacity:1;stroke-width:1px"
-         y="690.0415"
+         y="700.62476"
          x="-637.33899"
          id="tspan9280-5-3-9"
          sodipodi:role="line">Fedora Workstation 24</tspan></text>
     <path
        inkscape:connector-curvature="0"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.64600039;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m -643.73118,684.35004 a 3.7041076,3.70411 0 0 0 -3.70417,3.70417 3.7041076,3.70411 0 0 0 3.70417,3.70417 3.7041076,3.70411 0 0 0 3.70417,-3.70417 3.7041076,3.70411 0 0 0 -3.70417,-3.70417 z m -1.32137,1.82833 5.3e-4,0 2.64222,0 c 0.53758,0 0.7956,0.236 0.79478,0.52916 l -5.3e-4,1.32292 -0.002,0 c 2.7e-4,0.008 0.003,0.0156 0.003,0.0238 0,0.29313 -0.2572,0.52917 -0.79478,0.52917 l -2.64274,0 c -0.53757,0 -0.79529,-0.23604 -0.79529,-0.52917 -10e-6,-0.008 0.002,-0.0156 0.003,-0.0238 l -10e-4,0 -5.3e-4,-1.32292 c -2.5e-4,-0.29305 0.25706,-0.52901 0.79427,-0.52916 z m 0,2.69388 2.64274,0 c 0.53758,0 0.79478,0.23553 0.79478,0.52863 0,0.29316 -0.2572,0.5297 -0.79478,0.5297 l -2.64274,0 c -0.53758,0 -0.7953,-0.23654 -0.7953,-0.5297 0,-0.2931 0.25772,-0.52863 0.7953,-0.52863 z"
+       d="m -643.73118,694.93336 a 3.7041076,3.70411 0 0 0 -3.70417,3.70417 3.7041076,3.70411 0 0 0 3.70417,3.70417 3.7041076,3.70411 0 0 0 3.70417,-3.70417 3.7041076,3.70411 0 0 0 -3.70417,-3.70417 z m -1.32137,1.82833 5.3e-4,0 2.64222,0 c 0.53758,0 0.7956,0.236 0.79478,0.52916 l -5.3e-4,1.32292 -0.002,0 c 2.7e-4,0.008 0.003,0.0156 0.003,0.0238 0,0.29313 -0.2572,0.52917 -0.79478,0.52917 l -2.64274,0 c -0.53757,0 -0.79529,-0.23604 -0.79529,-0.52917 -10e-6,-0.008 0.002,-0.0156 0.003,-0.0238 l -10e-4,0 -5.3e-4,-1.32292 c -2.5e-4,-0.29305 0.25706,-0.52901 0.79427,-0.52916 z m 0,2.69388 2.64274,0 c 0.53758,0 0.79478,0.23553 0.79478,0.52863 0,0.29316 -0.2572,0.5297 -0.79478,0.5297 l -2.64274,0 c -0.53758,0 -0.7953,-0.23654 -0.7953,-0.5297 0,-0.2931 0.25772,-0.52863 0.7953,-0.52863 z"
        id="path17475-3" />
     <rect
        style="display:inline;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458338;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2292,11 +2292,11 @@
        width="270.93335"
        height="0.26458332"
        x="-653.25629"
-       y="-696.52106"
+       y="-707.10431"
        transform="scale(1,-1)" />
     <g
        id="g14387"
-       transform="translate(1.7198025,-0.1299687)">
+       transform="translate(1.7198025,10.453364)">
       <rect
          style="display:inline;opacity:1;fill:#d3d7cf;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4538-1"
@@ -2319,12 +2319,12 @@
     <text
        sodipodi:linespacing="120%"
        id="text19410-6-1-0-76-5-1"
-       y="806.55872"
+       y="817.14197"
        x="-517.90814"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle;fill:#555753;fill-opacity:1;stroke-width:1px"
-         y="806.55872"
+         y="817.14197"
          x="-517.90814"
          sodipodi:role="line"
          id="tspan13703-7-0">7 minutes left</tspan></text>
@@ -2425,8 +2425,8 @@
        y="-929.35358"
        transform="scale(1,-1)" />
     <path
-       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#888a85;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.79374999, 0.79374999;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend-8-2)"
-       d="m -459.3166,887.28542 0,18.52083"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#888a85;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.79375, 0.79375;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend-8-2)"
+       d="m -459.3166,897.38448 0,8.37608"
        id="path16736-2-9"
        inkscape:connector-curvature="0" />
     <flowRoot
@@ -2468,13 +2468,13 @@
          style="stroke-width:0.26458335px"
          id="tspan14731">screen here!</tspan></text>
     <path
-       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#888a85;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.79375001, 0.79375001;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend-2)"
-       d="m -384.27313,888.53407 c 9.2664,1.90486 18.60485,3.45919 27.98868,4.65856 19.7768,2.52772 39.78462,3.4758 59.68128,2.19756 26.01807,-1.6715 51.65478,-7.12758 77.61837,-9.49951 25.96358,-2.37193 52.96613,-1.47947 76.85869,8.95507 7.73833,3.37954 15.05382,7.72593 21.72239,12.90601"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#888a85;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.79375, 0.79375;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend-2)"
+       d="m -372.8882,888.53407 c 8.86102,1.90609 17.79767,3.46058 26.78186,4.65856 18.91412,2.52208 38.06827,3.46086 57.10794,2.19756 24.91425,-1.65308 49.43827,-7.05291 74.29666,-9.40095 24.85838,-2.34804 50.7787,-1.45375 73.51966,8.85651 7.44874,3.3771 14.45546,7.72762 20.78576,12.90601"
        id="path16736-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="caacc"
        inkscape:path-effect="#path-effect14724"
-       inkscape:original-d="m -384.27313,888.53407 c 0,0 17.66447,3.6603 27.98868,4.65856 18.89581,1.82706 39.63996,1.86575 59.68128,2.19756 51.39954,0.85096 108.82315,-8.63242 154.47706,-0.54444 28.06949,5.24747 21.72239,-2.02142 21.72239,12.90601" />
+       inkscape:original-d="m -372.8882,888.53407 c 0,0 16.90281,3.6603 26.78186,4.65856 18.08106,1.82706 37.93077,1.86575 57.10794,2.19756 49.1833,0.85096 104.13091,-8.63242 147.81632,-0.54444 26.85919,5.24747 20.78576,-2.02142 20.78576,12.90601" />
     <text
        sodipodi:linespacing="120%"
        id="text19410-6-1-0-76-5-1-9"
@@ -2855,62 +2855,27 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-755.34698"
-       y="510.1326"
+       y="586.86121"
        id="text4936"
        sodipodi:linespacing="120%"><tspan
-         id="tspan4944"
          sodipodi:role="line"
          x="-755.34698"
-         y="510.1326"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#db3279;fill-opacity:1;stroke-width:1px">Is there enough space here for metadata</tspan><tspan
-         sodipodi:role="line"
-         x="-755.34698"
-         y="516.05927"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#db3279;fill-opacity:1;stroke-width:1px"
-         id="tspan4955">about selections underneath each spoke?</tspan><tspan
-         sodipodi:role="line"
-         x="-755.34698"
-         y="521.98596"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#db3279;fill-opacity:1;stroke-width:1px"
-         id="tspan4957">Expand button width to accommodate</tspan><tspan
-         sodipodi:role="line"
-         x="-755.34698"
-         y="527.9126"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#db3279;fill-opacity:1;stroke-width:1px"
-         id="tspan4959">needed space? Try out in German too</tspan><tspan
-         sodipodi:role="line"
-         x="-755.34698"
-         y="533.83929"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#db3279;fill-opacity:1;stroke-width:1px"
-         id="tspan4985">since German words are long and tend to </tspan><tspan
-         sodipodi:role="line"
-         x="-755.34698"
-         y="539.76593"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#db3279;fill-opacity:1;stroke-width:1px"
-         id="tspan4987">blow things up (Mo) </tspan><tspan
-         sodipodi:role="line"
-         x="-755.34698"
-         y="545.69263"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#db3279;fill-opacity:1;stroke-width:1px"
-         id="tspan4961" /><tspan
-         sodipodi:role="line"
-         x="-755.34698"
-         y="551.61926"
+         y="586.86121"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#db3279;fill-opacity:1;stroke-width:1px"
          id="tspan4963">Need notification area to indicate issues / </tspan><tspan
          sodipodi:role="line"
          x="-755.34698"
-         y="557.54596"
+         y="592.7879"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#db3279;fill-opacity:1;stroke-width:1px"
          id="tspan4965">required spokes to go through. Potentially</tspan><tspan
          sodipodi:role="line"
          x="-755.34698"
-         y="563.4726"
+         y="598.71454"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#db3279;fill-opacity:1;stroke-width:1px"
          id="tspan4967">put underneath the main titlebar area up</tspan><tspan
          sodipodi:role="line"
          x="-755.34698"
-         y="569.39929"
+         y="604.64124"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#db3279;fill-opacity:1;stroke-width:1px"
          id="tspan4969">top since bottom gets cut off on VMs. (Mo)</tspan></text>
     <flowRoot
@@ -2953,7 +2918,7 @@
          id="tspan11504">hub/spoke model with this button placement. (Mo)</tspan></text>
     <path
        style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#888a85;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.79375, 0.79375;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend-8-2-5)"
-       d="m -611.98118,887.28543 0,18.52083"
+       d="m -611.98118,897.38449 0,8.37607"
        id="path16736-2-9-8"
        inkscape:connector-curvature="0" />
     <rect
@@ -3094,5 +3059,139 @@
            y="1030.1287"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.17471838px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:1px">Reboot now</tspan></text>
     </g>
-  </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-755.34698"
+       y="512.77844"
+       id="text4936-4"
+       sodipodi:linespacing="120%"><tspan
+         id="tspan4944-9"
+         sodipodi:role="line"
+         x="-755.34698"
+         y="512.77844"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#db3279;fill-opacity:1;stroke-width:1px">Is there enough space here for metadata</tspan><tspan
+         sodipodi:role="line"
+         x="-755.34698"
+         y="518.70508"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#db3279;fill-opacity:1;stroke-width:1px"
+         id="tspan4955-5">about selections underneath each spoke?</tspan><tspan
+         sodipodi:role="line"
+         x="-755.34698"
+         y="524.63177"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#db3279;fill-opacity:1;stroke-width:1px"
+         id="tspan4957-3">Expand button width to accommodate</tspan><tspan
+         sodipodi:role="line"
+         x="-755.34698"
+         y="530.55841"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#db3279;fill-opacity:1;stroke-width:1px"
+         id="tspan4959-3">needed space? Try out in German too</tspan><tspan
+         sodipodi:role="line"
+         x="-755.34698"
+         y="536.48511"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#db3279;fill-opacity:1;stroke-width:1px"
+         id="tspan4985-5">since German words are long and tend to </tspan><tspan
+         sodipodi:role="line"
+         x="-755.34698"
+         y="542.41174"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#db3279;fill-opacity:1;stroke-width:1px"
+         id="tspan4969-2">blow things up (Mo) </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-755.34698"
+       y="553.52429"
+       id="text4936-4-9"
+       sodipodi:linespacing="120%"><tspan
+         sodipodi:role="line"
+         x="-755.34698"
+         y="553.52429"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:1px"
+         id="tspan8128">There's info about what is selected already;</tspan><tspan
+         sodipodi:role="line"
+         x="-755.34698"
+         y="559.45099"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:1px"
+         id="tspan8132">what sort of metadata do you mean?</tspan><tspan
+         sodipodi:role="line"
+         x="-755.34698"
+         y="565.37762"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:1px"
+         id="tspan8134" /><tspan
+         sodipodi:role="line"
+         x="-755.34698"
+         y="571.48505"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:1px"
+         id="tspan8136">I can try to translate things to German. ☺</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-755.34698"
+       y="614.11395"
+       id="text4936-4-9-4"
+       sodipodi:linespacing="120%"><tspan
+         sodipodi:role="line"
+         x="-755.34698"
+         y="614.11395"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:1px"
+         id="tspan8136-6">None of the spokes are required. The installer</tspan><tspan
+         sodipodi:role="line"
+         x="-755.34698"
+         y="620.04065"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:1px"
+         id="tspan8174">auto-selects things based on context.</tspan><tspan
+         sodipodi:role="line"
+         x="-755.34698"
+         y="625.96729"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:1px"
+         id="tspan8176" /><tspan
+         sodipodi:role="line"
+         x="-755.34698"
+         y="631.89398"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:1px"
+         id="tspan8178">You don't need a network to install; language</tspan><tspan
+         sodipodi:role="line"
+         x="-755.34698"
+         y="637.82062"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:1px"
+         id="tspan8180">was previously selected. Keyboard default is </tspan><tspan
+         sodipodi:role="line"
+         x="-755.34698"
+         y="643.74731"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:1px"
+         id="tspan8182">based on language. Timezone is determined by</tspan><tspan
+         sodipodi:role="line"
+         x="-755.34698"
+         y="649.67395"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:1px"
+         id="tspan8188">network or defaults to GMT. Software set is</tspan><tspan
+         sodipodi:role="line"
+         x="-755.34698"
+         y="655.60065"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:1px"
+         id="tspan8200">pre-selected. Storage source &amp; target is selected</tspan><tspan
+         sodipodi:role="line"
+         x="-755.34698"
+         y="661.52728"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:1px"
+         id="tspan8204">as above stated.</tspan></text>
+    <flowRoot
+       transform="translate(429.1275,-13.6688)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555753;fill-opacity:0.99215686;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4390-5"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:0.26458332px"
+         id="flowRegion4392-3"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:0.99215686;stroke-width:0.26458332px"
+           y="361.99789"
+           x="-645.55579"
+           height="94.985435"
+           width="118.26874"
+           id="rect4394-7" /></flowRegion><flowPara
+         id="flowPara4396-2"
+         style="fill:#555753;fill-opacity:0.99215686;stroke-width:0.26458332px">This is the default for workstation; server would be different, as there would be no preinstalled OS. If there is no preinstalled OS, then people wouldn't see this. All these cases are handled already, as outlined above. Advanced partitioning is still selectable on the bottom-left for heavy tinkerers, in case this isn't enough.</flowPara><flowPara
+         style="fill:#555753;fill-opacity:0.99215686;stroke-width:0.26458332px"
+         id="flowPara8512" /><flowPara
+         style="fill:#555753;fill-opacity:0.99215686;stroke-width:0.26458332px"
+         id="flowPara8514">This isn't just to &quot;try&quot; Fedora. A lot of people want to use dual-boot for various reasons — some use Fedora as their main and have Windows / OS X as a backup for games, special purpose apps, etc.</flowPara></flowRoot>  </g>
 </svg>
