@@ -380,9 +380,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="1229.1687"
-     inkscape:cy="2904.9806"
+     inkscape:cy="4144.9806"
      inkscape:document-units="px"
-     inkscape:current-layer="g8675"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      units="px"
@@ -891,27 +891,6 @@
          transform="translate(-223.0002,-509)"
          style="display:inline;fill:#bebebe;fill-opacity:1" />
     </g>
-    <rect
-       style="display:inline;opacity:1;fill:#4a90d9;fill-opacity:1;stroke:none;stroke-width:0.17704763;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72682932"
-       id="rect19534-6-4-8-9-6"
-       width="34.660416"
-       height="9.260417"
-       x="-476.25018"
-       y="114.43713"
-       rx="0.79374999"
-       ry="0.79374993" />
-    <text
-       sodipodi:linespacing="521%"
-       id="text19530-8-5-1-8-3"
-       y="120.49092"
-       x="-459.07602"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.78271914px;line-height:521.00000381%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.17471838px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:1px"
-         y="120.49092"
-         x="-459.07602"
-         id="tspan19532-7-4-2-2-6"
-         sodipodi:role="line">Continue</tspan></text>
     <text
        sodipodi:linespacing="521%"
        id="text19410-6-1-1-2-5-5-0"
@@ -4614,6 +4593,31 @@
          style="display:inline;fill:#ffffff;fill-opacity:1"
          inkscape:label="actions"
          id="g4607-8" />
+    </g>
+    <g
+       id="g8717"
+       transform="translate(-59.531235,0)">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4a90d9;fill-opacity:1;fill-rule:nonzero;stroke:#1c5289;stroke-width:0.26458329;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:new"
+         id="rect31336-3-8"
+         width="34.131248"
+         height="8.7312508"
+         x="-416.56577"
+         y="114.83401"
+         rx="1.0064552"
+         ry="1.0064551" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text31338-8-4"
+         y="120.46648"
+         x="-399.63855"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1;enable-background:new"
+         xml:space="preserve"><tspan
+           y="120.46648"
+           x="-399.63855"
+           id="tspan31340-0-9"
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-opacity:1">Continue</tspan></text>
     </g>
   </g>
 </svg>
