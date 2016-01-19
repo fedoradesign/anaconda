@@ -515,10 +515,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="2140.79"
-     inkscape:cy="1060.7997"
+     inkscape:cx="1873.2361"
+     inkscape:cy="1785.9585"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g9014"
      showgrid="false"
      showguides="false"
      units="px"
@@ -3730,54 +3730,59 @@
       </g>
     </g>
     <g
-       id="g9019"
-       transform="translate(-9.525002,85.4604)">
-      <rect
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4a90d9;fill-opacity:1;fill-rule:nonzero;stroke:#1c5289;stroke-width:0.26458329;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:new"
-         id="rect31336-3-6"
-         width="34.131248"
-         height="8.7312508"
-         x="-358.09283"
-         y="1142.7406"
-         rx="1.0064552"
-         ry="1.0064551" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text31338-8-6"
-         y="1148.373"
-         x="-341.16565"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1;enable-background:new"
-         xml:space="preserve"><tspan
-           y="1148.373"
-           x="-341.16565"
-           id="tspan31340-0-7"
-           sodipodi:role="line"
-           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-opacity:1">Reboot Now</tspan></text>
-    </g>
-    <g
        id="g9014"
        transform="translate(16.139597,85.4604)">
-      <rect
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.26458329;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:new"
-         id="rect31336-3-6-5"
-         width="50.006248"
-         height="8.7312508"
-         x="-440.37827"
-         y="1142.7406"
-         rx="1.0064552"
-         ry="1.0064551" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text31338-8-6-3"
-         y="1148.373"
-         x="-415.38675"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-opacity:1;enable-background:new"
-         xml:space="preserve"><tspan
+      <g
+         style="display:inline"
+         id="g9019"
+         transform="translate(-29.633379,3.1492891e-7)">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4a90d9;fill-opacity:1;fill-rule:nonzero;stroke:#1c5289;stroke-width:0.26458329;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:new"
+           id="rect31336-3-6"
+           width="34.131248"
+           height="8.7312508"
+           x="-358.09283"
+           y="1142.7406"
+           rx="1.0064552"
+           ry="1.0064551" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text31338-8-6"
            y="1148.373"
+           x="-341.16565"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1;enable-background:new"
+           xml:space="preserve"><tspan
+             y="1148.373"
+             x="-341.16565"
+             id="tspan31340-0-7"
+             sodipodi:role="line"
+             style="text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-opacity:1">Reboot Now</tspan></text>
+      </g>
+      <g
+         id="g24509"
+         transform="translate(-1.0583787,0)">
+        <rect
+           ry="1.0064551"
+           rx="1.0064552"
+           y="1142.7406"
+           x="-435.61575"
+           height="8.7312508"
+           width="40.481247"
+           id="rect31336-3-6-5"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.26458329;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:new" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-opacity:1;enable-background:new"
            x="-415.38675"
-           id="tspan31340-0-7-6"
-           sodipodi:role="line"
-           style="text-align:center;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;stroke-opacity:1">Quit to Live Desktop</tspan></text>
+           y="1148.373"
+           id="text31338-8-6-3"
+           sodipodi:linespacing="125%"><tspan
+             style="text-align:center;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;stroke-opacity:1"
+             sodipodi:role="line"
+             id="tspan31340-0-7-6"
+             x="-415.38675"
+             y="1148.373">Quit to Desktop</tspan></text>
+      </g>
     </g>
     <g
        style="display:inline"
@@ -5864,5 +5869,33 @@ PP4jwzA2QInTMU1ze5lLihBCnCalrCgrbr34PyMFajphg1KsAAAAAElFTkSuQmCC
          y="704.83984"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:1px"
          id="tspan24125">will skip the confirmation step.</tspan></text>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot12427-2-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.99999905px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458334,0,0,0.26458334,-679.96032,1103.5042)"><flowRegion
+         id="flowRegion12429-3-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666412px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:0.26458332px"><rect
+           id="rect12431-80-6"
+           width="334"
+           height="831.99988"
+           x="-1.1879238"
+           y="-3.2026887"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.99999905px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:0.26458332px" /></flowRegion><flowPara
+         style="font-size:13.99999905px;fill:#555753;stroke-width:0.26458332px"
+         id="flowPara4973-4-2">Default installer</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot12427-2-8-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(539.15914,1198.9692)"><flowRegion
+         id="flowRegion12429-3-4-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:0.26458332px"><rect
+           id="rect12431-80-6-1"
+           width="88.370834"
+           height="220.13332"
+           x="-933.74432"
+           y="-96.312744"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:0.26458332px" /></flowRegion><flowPara
+         style="font-size:3.70416665px;fill:#555753;stroke-width:0.26458332px"
+         id="flowPara4973-4-2-8">Live media installer</flowPara></flowRoot>  </g>
 </svg>
