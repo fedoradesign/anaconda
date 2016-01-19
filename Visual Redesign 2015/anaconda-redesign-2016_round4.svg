@@ -515,8 +515,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="1982.9044"
-     inkscape:cy="2489.5882"
+     inkscape:cx="1989.9755"
+     inkscape:cy="2618.2816"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -5529,7 +5529,7 @@ PP4jwzA2QInTMU1ze5lLihBCnCalrCgrbr34PyMFajphg1KsAAAAAElFTkSuQmCC
     <g
        style="display:inline;opacity:0.4;fill:#000000;stroke:none;filter:url(#filter21074-8)"
        id="g21001-2-2"
-       transform="translate(56.929212,3.9688435)">
+       transform="translate(51.637546,3.9688435)">
       <rect
          ry="2.3812501"
          rx="2.3812497"
@@ -5599,7 +5599,7 @@ PP4jwzA2QInTMU1ze5lLihBCnCalrCgrbr34PyMFajphg1KsAAAAAElFTkSuQmCC
     <g
        style="display:inline"
        id="g21001-6"
-       transform="translate(56.929242,2.9105035)">
+       transform="translate(51.637576,2.9105035)">
       <rect
          ry="2.3812501"
          rx="2.3812497"
@@ -5813,27 +5813,27 @@ PP4jwzA2QInTMU1ze5lLihBCnCalrCgrbr34PyMFajphg1KsAAAAAElFTkSuQmCC
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-290.78192"
+       x="-296.07361"
        y="655.5387"
        id="text4936-4-9-4-5"
        sodipodi:linespacing="120%"><tspan
          sodipodi:role="line"
-         x="-290.78192"
+         x="-296.07361"
          y="655.5387"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:1px"
          id="tspan8204-0">The installation prompt is context-aware.</tspan><tspan
          sodipodi:role="line"
-         x="-290.78192"
+         x="-296.07361"
          y="659.9837"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:1px"
          id="tspan24071" /><tspan
          sodipodi:role="line"
-         x="-290.78192"
+         x="-296.07361"
          y="664.42871"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:1px"
          id="tspan24073">It has a custom message based on whether</tspan><tspan
          sodipodi:role="line"
-         x="-290.78192"
+         x="-296.07361"
          y="668.87372"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#555753;fill-opacity:1;stroke-width:1px"
          id="tspan24075">the drive is being resized or erased.</tspan></text>
