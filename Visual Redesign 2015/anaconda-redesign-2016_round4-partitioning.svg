@@ -850,8 +850,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="3328.7654"
-     inkscape:cy="2899.0844"
+     inkscape:cx="3369.7654"
+     inkscape:cy="2453.0844"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -6408,18 +6408,6 @@
          y="723.91486">500G USB</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:0.5;fill:#2e3436;fill-opacity:1;stroke:none"
-       x="-152.64059"
-       y="723.91486"
-       id="text8504-9-4-1-7-9-9-3"
-       sodipodi:linespacing="125%"><tspan
-         style="font-weight:normal"
-         sodipodi:role="line"
-         id="tspan8506-7-1-2-0-3-1-10"
-         x="-152.64059"
-         y="723.91486">My Files</tspan></text>
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#fafafa;fill-opacity:1;stroke:none"
        x="-180.78421"
        y="678.40656"
@@ -6678,5 +6666,74 @@
          id="tspan8975-0-4-5-8-7-9-8"
          sodipodi:role="line"
          style="text-align:start;text-anchor:start;fill:#2e3436">Location</tspan></text>
+    <g
+       id="g18772"
+       transform="matrix(0.26458336,0,0,0.26458334,-225.66884,558.57755)">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect18764"
+         width="33"
+         height="33.000122"
+         x="307.5"
+         y="389.86203"
+         rx="3"
+         ry="3"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <g
+         transform="translate(296.00002,122.36208)"
+         id="g18766">
+        <rect
+           inkscape:label="a"
+           y="276"
+           x="20"
+           height="16"
+           width="16"
+           id="rect18768"
+           style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none" />
+        <path
+           style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1;marker:none"
+           d="m -174,512 0,4 -4,0 0,2 4,0 0,4 2,0 0,-4 4,0 0,-2 -4,0 0,-4 -2,0 z"
+           transform="translate(201,-233)"
+           id="path18770"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       id="g18772-6"
+       transform="matrix(0.26458336,0,0,0.26458334,-225.66884,615.10917)">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect18764-8"
+         width="33"
+         height="33.000122"
+         x="307.5"
+         y="389.86203"
+         rx="3"
+         ry="3"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <g
+         transform="translate(296.00002,122.36208)"
+         id="g18766-3">
+        <rect
+           inkscape:label="a"
+           y="276"
+           x="20"
+           height="16"
+           width="16"
+           id="rect18768-5"
+           style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none" />
+        <path
+           style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1;marker:none"
+           d="m -174,512 0,4 -4,0 0,2 4,0 0,4 2,0 0,-4 4,0 0,-2 -4,0 0,-4 -2,0 z"
+           transform="translate(201,-233)"
+           id="path18770-9"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
   </g>
 </svg>
