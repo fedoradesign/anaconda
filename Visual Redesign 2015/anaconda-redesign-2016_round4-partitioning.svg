@@ -872,8 +872,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="3236.7033"
-     inkscape:cy="1578.5262"
+     inkscape:cx="3150.7033"
+     inkscape:cy="1693.5262"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -7874,25 +7874,6 @@
            id="tspan6283-5-0-5-6-6"
            x="-152.72676"
            y="400.92517">Resize</tspan></text>
-    </g>
-    <g
-       style="display:inline"
-       id="g18766-0-1"
-       transform="matrix(0.26458336,0,0,0.26458334,-169.04805,918.24078)">
-      <rect
-         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none"
-         id="rect18768-53-5"
-         width="16"
-         height="16"
-         x="20"
-         y="276"
-         inkscape:label="a" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path18770-6-6"
-         transform="translate(201,-233)"
-         d="m -174,512 0,4 -4,0 0,2 4,0 0,4 2,0 0,-4 4,0 0,-2 -4,0 0,-4 -2,0 z"
-         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1;marker:none" />
     </g>
     <text
        xml:space="preserve"
