@@ -676,8 +676,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="3723.1406"
-     inkscape:cy="3432.3057"
+     inkscape:cx="1734.1406"
+     inkscape:cy="3490.3057"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -4402,40 +4402,40 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none"
        x="-572.04022"
-       y="431.90042"
+       y="445.12964"
        id="text16212"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan16214"
          x="-572.04022"
-         y="431.90042">Network</tspan></text>
+         y="445.12964">Network</tspan></text>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:0.26458329;stroke-opacity:1;marker:none;enable-background:new"
        id="rect8502-7"
        width="107.68545"
        height="14.02292"
        x="-571.61157"
-       y="436.3031" />
+       y="449.53232" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none"
        x="-566.99841"
-       y="444.57767"
+       y="457.80688"
        id="text8504-9"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan8506-7"
          x="-566.99841"
-         y="444.57767">Network</tspan></text>
+         y="457.80688">Network</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text8508-3"
-       y="444.57767"
+       y="457.80688"
        x="-469.4342"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-         y="444.57767"
+         y="457.80688"
          x="-469.4342"
          id="tspan8510-8"
          sodipodi:role="line">SubSpaceComm</tspan></text>
@@ -4455,63 +4455,17 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none"
        x="-572.04022"
-       y="461.84357"
+       y="475.07278"
        id="text16212-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan16214-3"
          x="-572.04022"
-         y="461.84357">Region</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none"
-       x="-572.04022"
-       y="523.97534"
-       id="text16212-7-5"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan16214-3-8"
-         x="-572.04022"
-         y="523.97534">Software</tspan></text>
-    <g
-       style="display:inline"
-       id="g8766-4-3-3"
-       transform="translate(-286.80828,91.281122)">
-      <rect
-         y="437.09686"
-         x="-284.80328"
-         height="14.02292"
-         width="107.68545"
-         id="rect8502-7-6-4-8"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:0.26458329;stroke-opacity:1;marker:none;enable-background:new" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text8504-9-3-1-3"
-         y="445.37143"
-         x="-280.19012"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="445.37143"
-           x="-280.19012"
-           id="tspan8506-7-8-1-1"
-           sodipodi:role="line">Software Selection</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none"
-         x="-182.62592"
-         y="445.37143"
-         id="text8508-3-0-0-0"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan8510-8-6-4-2"
-           x="-182.62592"
-           y="445.37143"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell">Standard Workstation</tspan></text>
-    </g>
+         y="475.07278">Region</tspan></text>
     <g
        style="display:inline"
        id="g8766-4-0"
-       transform="translate(-286.80828,29.104176)">
+       transform="translate(-286.80828,42.333341)">
       <rect
          y="437.09686"
          x="-284.80328"
@@ -4546,7 +4500,7 @@
     <g
        style="display:inline"
        id="g8766-4-3-9"
-       transform="translate(-286.80828,43.127066)">
+       transform="translate(-286.80828,56.356231)">
       <rect
          y="437.09686"
          x="-284.80328"
@@ -4581,7 +4535,7 @@
     <g
        style="display:inline"
        id="g8766-4-3-3-0"
-       transform="translate(-286.80828,60.854146)">
+       transform="translate(-286.80828,74.083311)">
       <rect
          y="437.09686"
          x="-284.80328"
