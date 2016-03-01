@@ -1,4 +1,4 @@
-# Anaconda 2016 design adjustments
+# Anaconda 2016 design updates
 
 * Optimize Anaconda for the Workstation and Server split
   - Focus on Workstation first
