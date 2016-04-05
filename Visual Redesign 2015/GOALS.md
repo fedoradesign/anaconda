@@ -42,5 +42,3 @@ Summary: Students, small & indie developers, hobbyists
   5. Existing Linux without /home partition — (Ubuntu doesn't use /home)
     - Possible to remove /etc/, /usr/, /var/, but preserve /home/ and do a fresh install?
     - Partition might be encrypted (and would need to decrypt before)
-
-
