@@ -16,7 +16,7 @@
 Same audience as Fedora Workstation:
 <https://fedoraproject.org/wiki/Workstation/Workstation_PRD>
 
-Summary: Students, small & indie developers, hobbyists
+**Summary**: Students, small & indie developers, hobbyists
 
 ## Scenarios
 
