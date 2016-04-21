@@ -24,7 +24,7 @@ and setting an admin password), require proper keyboard input.
 There's no need to have a welcome screen that isn't also useful, so the welcome
 screen (as a banner) and language selection is combined.
 
-![anaconda-welcome-language](png/anaconda-welcome-language.png)
+![anaconda-welcome-language](export/anaconda-welcome-language.png)
 
 A filtered language list is shown based on location. Clicking on additional
 languages (shown translated to the default selection) would disclose more
@@ -40,7 +40,7 @@ If location cannot be determined (such as in the case of not having network
 available), then a list with the top few most popular languages would be shown,
 with all the rest below, in the scrollable list.
 
-![anaconda-welcome-language-german](png/anaconda-welcome-language-german.png)
+![anaconda-welcome-language-german](export/anaconda-welcome-language-german.png)
 
 At the top of the second level of the chooser is a “back” item, translated to
 the selected language. Choosing it would slide back to the previous list, with
@@ -85,14 +85,14 @@ super-simple resize dialog. After resizing (in the interface only, as nothing
 will actually happen until installation starts), the installer will proceed to
 the summary overview.
 
-![anaconda-disk-resize](png/anaconda-disk-resize.png)
+![anaconda-disk-resize](export/anaconda-disk-resize.png)
 
 If there is more than one disk, there is a disk selector that shows all
 available internal disks. It should explicitly exclude all temporary storage
 (USB and SD disks, as they are slower, less reliable, and may even accidentally
 be removed).
 
-![anaconda-disk-resize-multi](png/anaconda-disk-resize-multi.png)
+![anaconda-disk-resize-multi](export/anaconda-disk-resize-multi.png)
 
 Labels showing which disk is selected appear above the disk overview widget as
 to assist in determining which disk is which. (These labels are not needed when
@@ -147,7 +147,7 @@ space.
 Auto-detect everything possible. For things that are not auto-detected, choose
 most likely selections (such as a standard package install)
 
-![anaconda-install-summary](png/anaconda-install-summary.png)
+![anaconda-install-summary](export/anaconda-install-summary.png)
 
 Pre-existing OS, filling hard drive: Require interaction which displays a quick
 resize interface to free up space. Clicking on installation destination area
@@ -172,12 +172,12 @@ Keyboard default is based on language. Timezone is determined by network or
 defaults to GMT. Software set is pre-selected. Storage source & target is
 selected as above stated.
 
-![anaconda-prompt-continue](png/anaconda-prompt-continue.png)
+![anaconda-prompt-continue](export/anaconda-prompt-continue.png)
 
 The installation prompt is context-aware. It has a custom message based on
 whether the drive is being resized or erased.
 
-![anaconda-prompt-continue-erase](png/anaconda-prompt-continue-erase.png)
+![anaconda-prompt-continue-erase](export/anaconda-prompt-continue-erase.png)
 
 If Fedora will be installed into empty space without the need to resize or erase
 the disk, the installer will skip the confirmation step.
@@ -214,7 +214,7 @@ needed for other variants (eg KDE installs, RHEL installs, etc) (Mo)
 default. For spins and RHEL, only one 1 shows while the space used for second
 hubs is visible. This 1 ad rotates with a timer.
 
-![anaconda-install-ads](png/anaconda-install-ads.png)
+![anaconda-install-ads](export/anaconda-install-ads.png)
 (Three ads stacked. The middle ad is split horizontally into two as an example.)
 
 If there are more than 3 ads, then the ads rotate out 1-by-1, optimally
@@ -223,7 +223,7 @@ then the first again.) This is to try to have less of a jarring experience when
 people are trying to read what's going one. Ideally, ad sets would be in
 multiple of 3s. (Four ads would look odd as things shift.)
 
-![anaconda-install-ad-single](png/anaconda-install-ad-single.png)
+![anaconda-install-ad-single](export/anaconda-install-ad-single.png)
 (Single ad, where the same three ads as above are rotated through, so the ads
 shown are the same even though the UI changes.)
 
@@ -233,7 +233,7 @@ ads themselves.
 
 In some cases, no ads will be seen. This is most likely the case for RHEL and CentOS, especially when additional prompts are necessary, such as when a non-GNOME desktop is being installed. (GNOME handles the password and user setup post-install in gnome-initial-setup.)
 
-![anaconda-install-ad-none](png/anaconda-install-ad-none.png)
+![anaconda-install-ad-none](export/anaconda-install-ad-none.png)
 
 ### Default installer
 
@@ -260,14 +260,14 @@ an example
 All the options show up in a popup dialog. I have included timezone as an
 example of how this would work.
 
-![anaconda-popup-timezone](png/anaconda-popup-timezone.png)
+![anaconda-popup-timezone](export/anaconda-popup-timezone.png)
 
 ### Network example
 
 For the live installer, Anaconda does not handle networking. Instead, it re-uses
 GNOME's network configuration. This is an example of how this functions.
 
-![anaconda-popup-external-network](png/anaconda-popup-external-network.png)
+![anaconda-popup-external-network](export/anaconda-popup-external-network.png)
 
 Ideally, we would be able to have a reusable widget that does the same thing,
 but that follows the cancel & apply dialog approach (as seen in the timezone
@@ -278,10 +278,10 @@ example).
 When installing in a non-live mode, the only option should be rebooting into the
 freshly installed OS.
 
-![anaconda-reboot](png/anaconda-reboot.png)
+![anaconda-reboot](export/anaconda-reboot.png)
 
 In Live mode, it's necessary to also quit in order to save anything done while
 playing around in the live desktop, so the last screen has an additional button
 to quit.
 
-![anaconda-reboot-quit](png/anaconda-reboot-quit.png)
+![anaconda-reboot-quit](export/anaconda-reboot-quit.png)
