@@ -46,3 +46,8 @@ All of these scenarios assume people want to run Fedora natively on the hardware
     - Possible to remove /etc/, /usr/, /var/, but preserve /home/ and do
       a fresh install?
     - Partition might be encrypted (and would need to decrypt before)
+
+## 2016 Redesign Document
+
+[The 2016 Anaconda redesign overview](anaconda-2016-redesign.md) has a lot more detail,
+with inline mockups.
